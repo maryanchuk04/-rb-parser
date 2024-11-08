@@ -21,3 +21,69 @@ I, [2024-11-08T22:48:04.120772 #69648]  INFO -- : Processed file: example_file
 E, [2024-11-08T22:48:04.120814 #69648] ERROR -- : Error: Example error
 I, [2024-11-08T22:48:04.120851 #69648]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
 I, [2024-11-08T22:48:04.121249 #69648]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Durable Granite Clock, price: 63.79, description: Ut soluta delectus et., category: Computers, image_path: praesentium.jpg
+I, [2024-11-08T23:02:33.458629 #76592]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:02:33.459037 #76592] ERROR -- : Error: Example error
+I, [2024-11-08T23:02:33.459106 #76592]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:02:34.929129 #76592]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Gorgeous Leather Bench, price: 47.96, description: Quas qui quibusdam iste., category: Beauty, image_path: ut.jpg
+I, [2024-11-08T23:02:42.307639 #76671]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:02:42.307838 #76671] ERROR -- : Error: Example error
+I, [2024-11-08T23:02:42.307901 #76671]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:02:43.601979 #76671]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Enormous Concrete Gloves, price: 10.53, description: Laboriosam ut placeat ipsam., category: Tools & Movies, image_path: non.jpg
+I, [2024-11-08T23:03:00.150096 #76844]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:03:00.150196 #76844] ERROR -- : Error: Example error
+I, [2024-11-08T23:03:00.150246 #76844]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:03:01.451740 #76844]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Fantastic Iron Pants, price: 84.91, description: Velit et doloremque dignissimos., category: Baby, Shoes & Games, image_path: dolorum.jpg
+I, [2024-11-08T23:03:15.436845 #76979]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:03:15.436915 #76979] ERROR -- : Error: Example error
+I, [2024-11-08T23:03:15.436966 #76979]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:03:16.633861 #76979]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Ergonomic Copper Bench, price: 54.69, description: Voluptate quis id fugiat., category: Baby, Automotive & Grocery, image_path: tenetur.jpg
+I, [2024-11-08T23:03:16.636135 #76979]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:03:16.636201 #76979] ERROR -- : Error: Example error
+I, [2024-11-08T23:03:16.636247 #76979]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:03:16.636723 #76979]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Intelligent Paper Wallet, price: 88.83, description: Iure ad impedit natus., category: Beauty, image_path: esse.jpg
+I, [2024-11-08T23:04:15.859519 #77490]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:04:15.859697 #77490] ERROR -- : Error: Example error
+I, [2024-11-08T23:04:15.859763 #77490]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:04:17.122140 #77490]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Heavy Duty Linen Knife, price: 37.6, description: Vel eum et ullam., category: Electronics & Garden, image_path: ipsum.jpg
+I, [2024-11-08T23:04:17.123264 #77490]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:04:17.123306 #77490] ERROR -- : Error: Example error
+I, [2024-11-08T23:04:17.123343 #77490]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:04:17.123736 #77490]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Intelligent Concrete Bottle, price: 23.21, description: Et cupiditate voluptas rerum., category: Clothing, Electronics & Sports, image_path: quisquam.jpg
+I, [2024-11-08T23:04:40.160516 #77698]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:04:40.160876 #77698] ERROR -- : Error: Example error
+I, [2024-11-08T23:04:40.160918 #77698]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:04:41.530644 #77698]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Mediocre Aluminum Bench, price: 58.01, description: Ullam aspernatur et quia., category: Automotive, image_path: assumenda.jpg
+I, [2024-11-08T23:04:41.531752 #77698]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:04:41.531791 #77698] ERROR -- : Error: Example error
+I, [2024-11-08T23:04:41.531829 #77698]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:04:41.532242 #77698]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Aerodynamic Steel Bottle, price: 63.02, description: Consequatur incidunt sapiente doloribus., category: Automotive & Kids, image_path: sunt.jpg
+I, [2024-11-08T23:05:46.063975 #78268]  INFO -- : Processed file: example_file
+I, [2024-11-08T23:05:46.064060 #78268]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:05:47.351369 #78268]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Durable Silk Wallet, price: 86.73, description: Quasi et veritatis ut., category: Games, Home & Tools, image_path: eius.jpg
+I, [2024-11-08T23:05:47.352653 #78268]  INFO -- : Processed file: example_file
+I, [2024-11-08T23:05:47.352768 #78268]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:05:47.353246 #78268]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Ergonomic Aluminum Hat, price: 43.13, description: Repudiandae magnam neque blanditiis., category: Garden, Games & Sports, image_path: eaque.jpg
+I, [2024-11-08T23:05:56.922367 #78362]  INFO -- : Processed file: example_file
+I, [2024-11-08T23:05:56.922452 #78362]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:05:58.266020 #78362]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Aerodynamic Steel Hat, price: 17.57, description: Eveniet quos dolorem voluptate., category: Movies, image_path: commodi.jpg
+I, [2024-11-08T23:05:58.267292 #78362]  INFO -- : Processed file: example_file
+I, [2024-11-08T23:05:58.267352 #78362]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:05:58.267908 #78362]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Ergonomic Marble Clock, price: 14.72, description: Officiis non quis vel., category: Beauty, Industrial & Toys, image_path: labore.jpg
+I, [2024-11-08T23:07:33.887764 #79179]  INFO -- : Processed file: example_file
+I, [2024-11-08T23:07:33.887995 #79179]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:07:35.338064 #79179]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Enormous Concrete Clock, price: 97.72, description: Consequuntur totam voluptatibus voluptatem., category: Computers, Baby & Sports, image_path: porro.jpg
+I, [2024-11-08T23:07:35.339254 #79179]  INFO -- : Processed file: example_file
+I, [2024-11-08T23:07:35.339309 #79179]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:07:35.339722 #79179]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Heavy Duty Cotton Plate, price: 55.79, description: Exercitationem laudantium repellendus fuga., category: Grocery & Baby, image_path: odio.jpg
+I, [2024-11-08T23:07:49.133327 #79317]  INFO -- : Processed file: example_file
+I, [2024-11-08T23:07:49.133417 #79317]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:07:50.426956 #79317]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Durable Paper Clock, price: 84.7, description: Praesentium suscipit ut perspiciatis., category: Baby, Clothing & Health, image_path: quo.jpg
+I, [2024-11-08T23:07:50.428566 #79317]  INFO -- : Processed file: example_file
+I, [2024-11-08T23:07:50.428645 #79317]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:07:50.429042 #79317]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Ergonomic Linen Car, price: 44.49, description: Voluptatem quia et non., category: Tools, image_path: similique.jpg
+I, [2024-11-08T23:07:54.251221 #79369]  INFO -- : Processed file: example_file
+I, [2024-11-08T23:07:54.251311 #79369]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:07:55.536658 #79369]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Sleek Plastic Bag, price: 72.93, description: Beatae aperiam omnis sit., category: Grocery & Health, image_path: qui.jpg
+I, [2024-11-08T23:07:55.538042 #79369]  INFO -- : Processed file: example_file
+I, [2024-11-08T23:07:55.538126 #79369]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:07:55.538554 #79369]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Practical Rubber Watch, price: 15.9, description: Voluptates nihil quia assumenda., category: Grocery, image_path: quia.jpg
