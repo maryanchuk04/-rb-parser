@@ -1,6 +1,7 @@
 require_relative "./infrastructure/app_config_loader"
 require_relative "./infrastructure/logger_manager"
 require_relative "./models/item"
+require_relative "./models/cart"
 
 module RbParser
   class Main
@@ -23,7 +24,7 @@ module RbParser
         i.category = "Категорія 1"
       end
 
-      puts item.to_s
+      puts item
       puts item.to_h
       puts item.inspect
 
@@ -36,6 +37,24 @@ module RbParser
 
       fake_item = RbParser::Item.generate_fake
       puts fake_item.info
+
+      # #Example of usage cart
+
+      cart = RbParser::Cart.new
+      cart.generate_test_items(5)
+      cart.show_all_items
+
+      cart.save_to_file
+      cart.save_to_json
+      cart.save_to_csv
+      cart.save_to_yml
+
+      puts "Class info: #{Cart.class_info}"
+      puts "Total items created: #{Cart.item_count}"
+
+      # Usage od Enumerable methods
+      expensive_items = cart.select_items { |item| item[:price] > 50 }
+      puts "Expensive items: #{expensive_items}"
     end
   end
 end
