@@ -87,3 +87,47 @@ I, [2024-11-08T23:07:55.536658 #79369]  INFO -- : Processed file: Item initializ
 I, [2024-11-08T23:07:55.538042 #79369]  INFO -- : Processed file: example_file
 I, [2024-11-08T23:07:55.538126 #79369]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Item 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
 I, [2024-11-08T23:07:55.538554 #79369]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Practical Rubber Watch, price: 15.9, description: Voluptates nihil quia assumenda., category: Grocery, image_path: quia.jpg
+I, [2024-11-08T23:02:48.187053 #61435]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:02:48.188189 #61435] ERROR -- : Error: Example error
+I, [2024-11-08T23:02:48.188334 #61435]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:02:50.339194 #61435]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Gorgeous Copper Clock, price: 19.72, description: Molestiae atque dolorem temporibus., category: Baby, image_path: consequatur.jpg
+I, [2024-11-08T23:04:11.024135 #61517]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:04:11.044857 #61517] ERROR -- : Error: Example error
+I, [2024-11-08T23:04:11.044965 #61517]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:04:22.560849 #61517]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Heavy Duty Paper Pants, price: 13.92, description: Accusantium et qui temporibus., category: Electronics, Grocery & Toys, image_path: in.jpg
+I, [2024-11-08T23:09:47.698560 #61919]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:09:47.698873 #61919] ERROR -- : Error: Example error
+I, [2024-11-08T23:09:47.698993 #61919]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:09:49.866840 #61919]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Ergonomic Linen Shirt, price: 6.41, description: Impedit reprehenderit est dolor., category: Music & Kids, image_path: dolorem.jpg
+I, [2024-11-08T23:11:56.374243 #62081]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:11:56.375883 #62081] ERROR -- : Error: Example error
+I, [2024-11-08T23:11:56.375987 #62081]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:11:59.719866 #62081]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Lightweight Iron Knife, price: 70.87, description: Beatae velit voluptatum doloremque., category: Shoes & Outdoors, image_path: aperiam.jpg
+I, [2024-11-08T23:11:59.720045 #62081]  INFO -- : Cart initialized with an empty items array
+I, [2024-11-08T23:11:59.720843 #62081]  INFO -- : Item added: {:name=>"Item 1", :price=>84, :quantity=>3}
+I, [2024-11-08T23:11:59.721325 #62081]  INFO -- : Item added: {:name=>"Item 2", :price=>64, :quantity=>1}
+I, [2024-11-08T23:11:59.722725 #62081]  INFO -- : Item added: {:name=>"Item 3", :price=>49, :quantity=>4}
+I, [2024-11-08T23:11:59.722808 #62081]  INFO -- : Item added: {:name=>"Item 4", :price=>87, :quantity=>1}
+I, [2024-11-08T23:11:59.722860 #62081]  INFO -- : Item added: {:name=>"Item 5", :price=>33, :quantity=>2}
+I, [2024-11-08T23:11:59.722900 #62081]  INFO -- : 5 test items generated
+I, [2024-11-08T23:11:59.723150 #62081]  INFO -- : Showing all items in the cart
+I, [2024-11-08T23:11:59.724206 #62081]  INFO -- : Items saved to text file: items.txt
+I, [2024-11-08T23:11:59.725065 #62081]  INFO -- : Items saved to JSON file: items.json
+I, [2024-11-08T23:11:59.726285 #62081]  INFO -- : Items saved to CSV file: items.csv
+I, [2024-11-08T23:11:59.748837 #62081]  INFO -- : Items saved to YAML files in directory: items_yaml
+I, [2024-11-08T23:11:59.758750 #62081]  INFO -- : Processed file: example_file
+E, [2024-11-08T23:11:59.758839 #62081] ERROR -- : Error: Example error
+I, [2024-11-08T23:11:59.758912 #62081]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T23:11:59.764017 #62081]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Durable Linen Plate, price: 9.54, description: Est voluptatem tempore quis., category: Electronics & Games, image_path: quia.jpg
+I, [2024-11-08T23:11:59.764158 #62081]  INFO -- : Cart initialized with an empty items array
+I, [2024-11-08T23:11:59.764228 #62081]  INFO -- : Item added: {:name=>"Item 1", :price=>53, :quantity=>3}
+I, [2024-11-08T23:11:59.764278 #62081]  INFO -- : Item added: {:name=>"Item 2", :price=>28, :quantity=>5}
+I, [2024-11-08T23:11:59.764322 #62081]  INFO -- : Item added: {:name=>"Item 3", :price=>27, :quantity=>4}
+I, [2024-11-08T23:11:59.765532 #62081]  INFO -- : Item added: {:name=>"Item 4", :price=>37, :quantity=>1}
+I, [2024-11-08T23:11:59.766394 #62081]  INFO -- : Item added: {:name=>"Item 5", :price=>95, :quantity=>1}
+I, [2024-11-08T23:11:59.766502 #62081]  INFO -- : 5 test items generated
+I, [2024-11-08T23:11:59.766550 #62081]  INFO -- : Showing all items in the cart
+I, [2024-11-08T23:11:59.768196 #62081]  INFO -- : Items saved to text file: items.txt
+I, [2024-11-08T23:11:59.769112 #62081]  INFO -- : Items saved to JSON file: items.json
+I, [2024-11-08T23:11:59.769755 #62081]  INFO -- : Items saved to CSV file: items.csv
+I, [2024-11-08T23:11:59.786217 #62081]  INFO -- : Items saved to YAML files in directory: items_yaml

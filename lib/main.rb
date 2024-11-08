@@ -2,6 +2,7 @@ require_relative "./infrastructure/app_config_loader"
 require_relative "./infrastructure/logger_manager"
 require_relative "./infrastructure/configurator"
 require_relative "./models/item"
+require_relative "./models/cart"
 
 module RbParser
   class Main
@@ -23,7 +24,7 @@ module RbParser
         i.category = "Category 1"
       end
 
-      puts item.to_s
+      puts item
       puts item.to_h
       puts item.inspect
 
@@ -37,6 +38,25 @@ module RbParser
       fake_item = RbParser::Item.generate_fake
       puts fake_item.info
 
+
+      # #Example of usage cart
+      puts "\n\n===================== Lab3.2 ==========================\n\n"
+      cart = RbParser::Cart.new
+      cart.generate_test_items(5)
+      cart.show_all_items
+
+      cart.save_to_file
+      cart.save_to_json
+      cart.save_to_csv
+      cart.save_to_yml
+
+      puts "Class info: #{Cart.class_info}"
+      puts "Total items created: #{Cart.item_count}"
+
+      # Usage od Enumerable methods
+      expensive_items = cart.select_items { |item| item[:price] > 50 }
+      puts "Expensive items: #{expensive_items}"
+      puts "\n\n=======================================================\n\n"
 
       # Configurator boom 😎
       puts "\n\n===================== Lab3.3 ==========================\n\n"
@@ -54,6 +74,7 @@ module RbParser
       puts "Configs after updates: #{configurator.config}\n\n"
       puts "Available configs: #{RbParser::Configurator.available_methods}"
       puts "\n\n=======================================================\n\n"
+
     end
   end
 end

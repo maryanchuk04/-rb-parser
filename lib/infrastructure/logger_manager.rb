@@ -10,8 +10,13 @@ module RbParser
         log_dir = config_data.dig("logging", "directory") || "logs"
         Dir.mkdir(log_dir) unless Dir.exist?(log_dir)
 
-        @logger = Logger.new(File.join(log_dir, config_data.dig("logging", "files", "application_log")))
+        @logger = Logger.new(File.join(log_dir,
+                                       config_data.dig("logging", "files", "application_log")))
         @logger.level = Logger.const_get(config_data.dig("logging", "level") || "DEBUG")
+      end
+
+      def log_info(message)
+        @logger.info(message)
       end
 
       def log_processed_file(file_name)
