@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # Logfile created on 2024-11-08 22:33:40 +0200 by logger.rb/v1.5.0
 I, [2024-11-08T22:33:40.673553 #59636]  INFO -- : Processed file: example_file
 E, [2024-11-08T22:33:40.673684 #59636] ERROR -- : Error: Example error
@@ -131,3 +133,4 @@ I, [2024-11-08T23:11:59.768196 #62081]  INFO -- : Items saved to text file: item
 I, [2024-11-08T23:11:59.769112 #62081]  INFO -- : Items saved to JSON file: items.json
 I, [2024-11-08T23:11:59.769755 #62081]  INFO -- : Items saved to CSV file: items.csv
 I, [2024-11-08T23:11:59.786217 #62081]  INFO -- : Items saved to YAML files in directory: items_yaml
+>>>>>>> main

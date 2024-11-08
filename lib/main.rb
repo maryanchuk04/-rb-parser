@@ -1,6 +1,8 @@
 require_relative "./infrastructure/app_config_loader"
 require_relative "./infrastructure/logger_manager"
+require_relative './parsers/simple_website_parser'
 require_relative "./infrastructure/configurator"
+
 require_relative "./models/item"
 require_relative "./models/cart"
 
@@ -8,11 +10,8 @@ module RbParser
   class Main
     def self.start
       config_loader = AppConfigLoader.new("config/default_config.yaml", "config/yaml")
-
       config_loader.load_libs
-
       config_data = config_loader.config
-
       config_loader.pretty_print_config_data
 
       LoggerManager.initialize_logger(config_data)
@@ -56,7 +55,6 @@ module RbParser
       # Usage od Enumerable methods
       expensive_items = cart.select_items { |item| item[:price] > 50 }
       puts "Expensive items: #{expensive_items}"
-      puts "\n\n=======================================================\n\n"
 
       # Configurator boom 😎
       puts "\n\n===================== Lab3.3 ==========================\n\n"
@@ -73,6 +71,14 @@ module RbParser
 
       puts "Configs after updates: #{configurator.config}\n\n"
       puts "Available configs: #{RbParser::Configurator.available_methods}"
+      puts "\n\n=======================================================\n\n"
+
+
+      puts "==================== Lab3.4 ========================"
+      config_path = './config/yaml/web_parser.yaml'
+      parser = SimpleWebsiteParser.new(config_path)
+      parser.start_parse
+      puts "===================================================="
       puts "\n\n=======================================================\n\n"
 
     end
