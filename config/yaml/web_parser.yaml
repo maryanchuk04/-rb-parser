@@ -1,6 +1,8 @@
-web_scraping:
-    start_page: "https://prom.ua"
-    product_name_selector: ".product-title"
-    product_price_selector: ".product-price__item"
-    product_description_selector: ".product-description"
-    product_image_selector: ".gallery__link"
+start_page: "https://24ka.com.ua/ua/g134495122-bolgarki"
+selectors:
+    product_link_selector: "//a[@class='cs-goods-title']"
+    name_selector: "//h1//span['text']"
+    price_selector: "//p[@class='b-product-cost__price']"
+    description_selector: "//div[@class='b-user-content']//p//span"
+    image_selector: ".cs-pictures__img"
+    category: "24ka"
