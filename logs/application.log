@@ -3,3 +3,21 @@ I, [2024-11-08T22:33:40.673553 #59636]  INFO -- : Processed file: example_file
 E, [2024-11-08T22:33:40.673684 #59636] ERROR -- : Error: Example error
 I, [2024-11-08T22:33:40.675267 #59636]  INFO -- : Processed file: example_file
 E, [2024-11-08T22:33:40.675344 #59636] ERROR -- : Error: Example error
+I, [2024-11-08T22:44:30.711320 #67894]  INFO -- : Processed file: example_file
+E, [2024-11-08T22:44:30.711577 #67894] ERROR -- : Error: Example error
+I, [2024-11-08T22:47:50.136526 #69553]  INFO -- : Processed file: example_file
+E, [2024-11-08T22:47:50.136734 #69553] ERROR -- : Error: Example error
+I, [2024-11-08T22:47:50.136801 #69553]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T22:47:51.446220 #69553]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Intelligent Paper Bag, price: 35.36, description: Iure aut et dignissimos., category: Shoes, Kids & Games, image_path: et.jpg
+I, [2024-11-08T22:47:51.447489 #69553]  INFO -- : Processed file: example_file
+E, [2024-11-08T22:47:51.447538 #69553] ERROR -- : Error: Example error
+I, [2024-11-08T22:47:51.447579 #69553]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T22:47:51.447971 #69553]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Awesome Copper Bottle, price: 7.79, description: Non aliquam nam et., category: Outdoors, image_path: temporibus.jpg
+I, [2024-11-08T22:48:02.678788 #69648]  INFO -- : Processed file: example_file
+E, [2024-11-08T22:48:02.678873 #69648] ERROR -- : Error: Example error
+I, [2024-11-08T22:48:02.679077 #69648]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T22:48:04.119636 #69648]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Intelligent Linen Knife, price: 14.37, description: Rerum sed est exercitationem., category: Toys, image_path: sit.jpg
+I, [2024-11-08T22:48:04.120772 #69648]  INFO -- : Processed file: example_file
+E, [2024-11-08T22:48:04.120814 #69648] ERROR -- : Error: Example error
+I, [2024-11-08T22:48:04.120851 #69648]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Товар 1, price: 150, description: No description, category: Uncategorized, image_path: default.jpg
+I, [2024-11-08T22:48:04.121249 #69648]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Durable Granite Clock, price: 63.79, description: Ut soluta delectus et., category: Computers, image_path: praesentium.jpg
