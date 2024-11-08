@@ -1,5 +1,5 @@
 require 'faker'
-require_relative 'logger_manager'
+require_relative '../infrastructure/logger_manager'
 
 module RbParser
   class Item
