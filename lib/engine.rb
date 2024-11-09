@@ -60,6 +60,11 @@ module RbParser
     end
 
     def run_methods(config_params)
+      unless config_params.is_a?(Array)
+        puts "Configuration error: 'methods' should be an array of method names."
+        return
+      end
+
       config_params.each do |method_name|
         if respond_to?(method_name)
           send(method_name)
@@ -116,26 +121,27 @@ module RbParser
                     VALUES (?, ?, ?, ?, ?)", 
                     [item.name, item.price, item.description, item.category, item.image_path])
       end
-      puts "Data saved to SQLite at #{db_connector.config['database']['path']}"
+      puts "Data saved to SQLite at #{db_connector.get_sqlite_path}"
     end
 
     def run_save_to_mongodb
       client = db_connector.mongodb_client
-      items_collection = client[:items]
+      collection_name = db_connector.get_mongodb_collection_name
+      items_collection = client[collection_name.to_sym]
 
       data = parser.item_collection.map(&:to_h)
       items_collection.insert_many(data)
-      puts "Data saved to MongoDB in database '#{db_connector.config['database']['name']}'"
+      puts "Data saved to MongoDB in database '#{db_connector.get_mongodb_name}'"
     end
 
-    # def archive_results
-    #   Zip::File.open("output/results.zip", Zip::File::CREATE) do |zipfile|
-    #     Dir["output/*"].each do |file|
-    #       zipfile.add(File.basename(file), file)
-    #     end
-    #   end
-    #   puts "Results archived to output/results.zip"
-    #   ArchiveSender.perform_async("output/results.zip", config["email"])
-    # end
+    def run_archive_results
+      Zip::File.open("output/results.zip", Zip::File::CREATE) do |zipfile|
+        Dir["output/*"].each do |file|
+          zipfile.add(File.basename(file), file)
+        end
+      end
+      puts "Results archived to output/results.zip"
+      ArchiveSender.perform_async("output/results.zip", config["email"])
+    end
   end
 end

@@ -1,6 +1,6 @@
 database:
     type: "both"
     path: "db/local_database.sqlite"
-    uri: "NOT TODAY)"
-    name: "ParserData"
-
+    uri: "SUPERSECYRITY"
+    name: "RbParser"
+    collection: "products"

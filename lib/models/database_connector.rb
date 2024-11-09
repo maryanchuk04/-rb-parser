@@ -16,12 +16,8 @@ class DatabaseConnector
   end
 
   def connect_to_databases
-    if @config["database"]["type"] == "sqlite" || @config["database"]["type"] == "both"
-      connect_to_sqlite
-    end
-    return unless @config["database"]["type"] == "mongodb" || @config["database"]["type"] == "both"
-
-    connect_to_mongodb
+    connect_to_sqlite if @config["database"]["type"] == "sqlite" || @config["database"]["type"] == "both"
+    connect_to_mongodb if @config["database"]["type"] == "mongodb" || @config["database"]["type"] == "both"
   end
 
   def close_connections
@@ -29,10 +25,22 @@ class DatabaseConnector
     close_mongodb_connection
   end
 
+  def get_sqlite_path
+    @config["database"]["path"]
+  end
+
+  def get_mongodb_name
+    @config["database"]["name"]
+  end
+
+  def get_mongodb_collection_name
+    @config["database"]["collection"] || "products"
+  end
+
   private
 
   def connect_to_sqlite
-    db_path = @config["database"]["path"]
+    db_path = get_sqlite_path
     @sqlite_db = SQLite3::Database.new(db_path)
     puts "Connected to SQLite database at #{db_path}"
   rescue SQLite3::Exception => e
@@ -41,7 +49,7 @@ class DatabaseConnector
 
   def connect_to_mongodb
     uri = @config["database"]["uri"]
-    database_name = @config["database"]["name"]
+    database_name = get_mongodb_name
     @mongodb_client = Mongo::Client.new(uri, database: database_name)
     puts "Connected to MongoDB database '#{database_name}' at #{uri}"
   rescue Mongo::Error => e
