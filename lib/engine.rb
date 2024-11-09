@@ -4,8 +4,8 @@ require "yaml"
 require "zip"
 require "pony"
 
-require_relative "../parsers/simple_website_parser"
-require_relative "item"
+require_relative "./parsers/simple_website_parser"
+require_relative "./models/item"
 
 module RbParser
   class Engine

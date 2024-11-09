@@ -90,7 +90,7 @@ module RbParser
     end
 
     def save_product_image(image_url, category)
-      media_dir = File.join('media_dir', category)
+      media_dir = File.join('media', category)
       FileUtils.mkdir_p(media_dir)
       image_path = File.join(media_dir, "#{SecureRandom.uuid}.jpg")
 
