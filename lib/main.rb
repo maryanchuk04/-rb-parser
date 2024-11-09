@@ -88,12 +88,11 @@ module RbParser
 
       # connector.close_connections
 
-      parser_config_path = "./config/yaml/web_parser.yaml"
-      db_config_path = "./config/yaml/database_config.yaml"
+      parser_config_path = "config/yaml/web_parser.yaml"
+      db_config_path = "config/yaml/database_config.yaml"
 
       engine = RbParser::Engine.new(parser_config_path, db_config_path)
       engine.run
-
 
     end
   end

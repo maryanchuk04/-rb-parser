@@ -6,3 +6,10 @@ selectors:
     description_selector: "//div[@class='b-user-content']//p//span"
     image_selector: ".cs-pictures__img"
     category: "24ka"
+
+methods:
+    run_save_to_csv
+    run_save_to_json
+    run_save_to_yaml
+    run_save_to_sqlite
+    run_save_to_mongodb
