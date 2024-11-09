@@ -3,6 +3,7 @@ require_relative "./infrastructure/logger_manager"
 require_relative "./infrastructure/configurator"
 require_relative "./models/item"
 require_relative "./models/cart"
+require_relative "./models/database_connector"
 
 module RbParser
   class Main
@@ -38,7 +39,6 @@ module RbParser
       fake_item = RbParser::Item.generate_fake
       puts fake_item.info
 
-
       # #Example of usage cart
       puts "\n\n===================== Lab3.2 ==========================\n\n"
       cart = RbParser::Cart.new
@@ -71,10 +71,14 @@ module RbParser
         run_save_to_sqlite: 1
       )
 
-      puts "Configs after updates: #{configurator.config}\n\n"
-      puts "Available configs: #{RbParser::Configurator.available_methods}"
-      puts "\n\n=======================================================\n\n"
+      # Usage of connection to database
+      config_path = "/Users/vovaromanyuck/Desktop/rb-parser/config/default_config.yaml"
 
+      connector = DatabaseConnector.new(config_path)
+
+      connector.connect_to_databases
+
+      connector.close_connections
     end
   end
 end

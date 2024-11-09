@@ -3,3 +3,9 @@ default:
     config_dir: config
     yaml_dir: config/yaml
     media_dir: media
+
+database:
+    type: "both"
+    path: "db/local_database.sqlite"
+    uri: "mongodb+srv://username:password@cluster0.5dh5f.mongodb.net/"
+    name: "ParserData"
