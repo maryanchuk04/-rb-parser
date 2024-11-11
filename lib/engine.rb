@@ -1,14 +1,15 @@
 require 'csv'
 require 'json'
 require 'yaml'
-require 'zip'
 require 'sqlite3'
 require 'mongo'
 require 'pony'
+require 'zip'
 
 require_relative "./parsers/simple_website_parser"
 require_relative "./models/item"
 require_relative "./models/database_connector"
+require_relative "./infrastructure/archive_sender"
 
 module RbParser
   class Engine
@@ -135,13 +136,29 @@ module RbParser
     end
 
     def run_archive_results
-      Zip::File.open("output/results.zip", Zip::File::CREATE) do |zipfile|
-        Dir["output/*"].each do |file|
-          zipfile.add(File.basename(file), file)
-        end
+      output_dir = "/Users/mac/Desktop/rb-parser/output"
+      zip_file_path = "#{output_dir}/results.zip"
+
+      unless Dir.exist?(output_dir)
+        puts "Output directory does not exist."
+        return
       end
-      puts "Results archived to output/results.zip"
-      ArchiveSender.perform_async("output/results.zip", config["email"])
+
+      puts "Starting archive creation at #{zip_file_path}"
+      begin
+        Zip::File.open(zip_file_path, Zip::File::CREATE) do |zipfile|
+          Dir["#{output_dir}/*"].each do |file|
+            zipfile.add(File.basename(file), file) if File.file?(file)
+          end
+        end
+        puts "Results archived to #{zip_file_path}"
+
+        recipient_email = "lion20914king@gmail.com"
+        ArchiveSender.perform_async(zip_file_path, recipient_email)
+      rescue StandardError => e
+        puts "Failed to archive results: #{e.message}"
+      end
     end
+
   end
 end
