@@ -43,7 +43,7 @@ db
 /_yardoc/
 /doc/
 /rdoc/
-
+media_dir
 ## Environment normalization:
 /.bundle/
 /vendor/bundle

@@ -87,8 +87,12 @@ GEM
     racc (1.8.1)
     rack (3.1.8)
     rainbow (3.1.1)
+<<<<<<< HEAD
+    rake (13.2.1)
+=======
     redis-client (0.22.2)
       connection_pool
+>>>>>>> main
     regexp_parser (2.9.2)
     rubocop (1.68.0)
       json (~> 2.3)
@@ -150,7 +154,11 @@ DEPENDENCIES
   mechanize
   mongo
   nokogiri
+<<<<<<< HEAD
+  rake
+=======
   pony
+>>>>>>> main
   rubocop
   rubyzip (~> 2.3)
   securerandom
