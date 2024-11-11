@@ -17,7 +17,7 @@ class ArchiveSender
         address: 'smtp.gmail.com',
         port: '587',
         user_name: 'partymaker.sigma@gmail.com',
-        password: 'nsoftamuuzkajkrb',
+        password: 'SUPERSECURE',
         authentication: :plain,
       }
     )
