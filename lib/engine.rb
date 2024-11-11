@@ -136,7 +136,7 @@ module RbParser
     end
 
     def run_archive_results
-      output_dir = "/Users/mac/Desktop/rb-parser/output"
+      output_dir = "output"
       zip_file_path = "#{output_dir}/results.zip"
 
       unless Dir.exist?(output_dir)
