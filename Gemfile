@@ -6,6 +6,7 @@ gem "httparty"
 gem "logger"
 gem "mongo"
 gem "nokogiri"
+gem "rake"
 gem "rubocop", require: false
 gem "securerandom"
 gem "sqlite3"

@@ -76,8 +76,6 @@ module RbParser
       puts "===================================================="
       puts "\n\n=======================================================\n\n"
 
-     
-
       # Usage of connection to database
       puts "==================== Lab3.5 ========================"
       config_path = "/Users/vovaromanyuck/Desktop/rb-parser/config/default_config.yaml"
