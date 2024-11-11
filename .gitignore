@@ -9,6 +9,7 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+/output/
 
 # Used by dotenv library to load environment variables.
 # .env
@@ -23,7 +24,7 @@ build/
 *.bridgesupport
 build-iPhoneOS/
 build-iPhoneSimulator/
-
+media/
 ## Specific to RubyMotion (use of CocoaPods):
 #
 # We recommend against adding the Pods directory to your .gitignore. However
@@ -31,6 +32,11 @@ build-iPhoneSimulator/
 # https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
 #
 # vendor/Pods/
+
+media_dir
+items_yaml
+output
+db
 
 ## Documentation cache and generated files:
 /.yardoc/

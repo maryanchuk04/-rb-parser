@@ -1,0 +1,687 @@
+I, [2024-11-09T16:39:00.006947 #28780]  INFO -- : Processed file: example_file
+I, [2024-11-09T16:39:00.010361 #28780]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config ./config/yaml/web_parser.yaml
+I, [2024-11-09T16:39:00.010418 #28780]  INFO -- : Processed file: Starting parsing process
+I, [2024-11-09T16:39:01.605672 #28780]  INFO -- : Processed file: Extracted 24 product links
+I, [2024-11-09T16:39:03.510059 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188637_w269_h230_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T16:39:03.532909 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218964_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:03.570445 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217251_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:03.597231 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258743_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:03.611780 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/a0e7ee18-5fc6-4001-a14a-7948235a2d97.jpg
+I, [2024-11-09T16:39:03.611938 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, price: 2 000 ₴, description: , category: 24ka, image_path: media_dir/24ka/a0e7ee18-5fc6-4001-a14a-7948235a2d97.jpg
+I, [2024-11-09T16:39:03.612082 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, Price: 2 000 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/a0e7ee18-5fc6-4001-a14a-7948235a2d97.jpg
+I, [2024-11-09T16:39:03.611869 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/3af53abb-a4f4-40d2-885c-6d9de08ce73b.jpg
+I, [2024-11-09T16:39:03.612401 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм YATO YT-82101, price: 1 900 ₴, description: , category: 24ka, image_path: media_dir/24ka/3af53abb-a4f4-40d2-885c-6d9de08ce73b.jpg
+I, [2024-11-09T16:39:03.612512 #28780]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм YATO YT-82101, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/3af53abb-a4f4-40d2-885c-6d9de08ce73b.jpg
+I, [2024-11-09T16:39:03.621959 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238780_w1081_h473_rizak-dlya-metalu.jpg
+I, [2024-11-09T16:39:03.642700 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/998baf69-b22c-4927-a698-5b57a46286a5.jpg
+I, [2024-11-09T16:39:03.642862 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, price: 6 200 ₴, description: , category: 24ka, image_path: media_dir/24ka/998baf69-b22c-4927-a698-5b57a46286a5.jpg
+I, [2024-11-09T16:39:03.642904 #28780]  INFO -- : Processed file: Parsed product: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, Price: 6 200 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/998baf69-b22c-4927-a698-5b57a46286a5.jpg
+I, [2024-11-09T16:39:03.661259 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/eee26ed4-4904-467f-9d01-66814f1acdac.jpg
+I, [2024-11-09T16:39:03.661427 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 230 мм YATO YT-82105, price: 3 600 ₴, description: , category: 24ka, image_path: media_dir/24ka/eee26ed4-4904-467f-9d01-66814f1acdac.jpg
+I, [2024-11-09T16:39:03.661474 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 230 мм YATO YT-82105, Price: 3 600 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/eee26ed4-4904-467f-9d01-66814f1acdac.jpg
+I, [2024-11-09T16:39:03.688663 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233248341_w358_h473_disk-freza-shlifuvalnij-po.jpg
+I, [2024-11-09T16:39:03.693000 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/37d0223e-0f07-4864-a570-0c9d5fe6e38b.jpg
+I, [2024-11-09T16:39:03.693077 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, price: 3 000 ₴, description: , category: 24ka, image_path: media_dir/24ka/37d0223e-0f07-4864-a570-0c9d5fe6e38b.jpg
+I, [2024-11-09T16:39:03.693106 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, Price: 3 000 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/37d0223e-0f07-4864-a570-0c9d5fe6e38b.jpg
+I, [2024-11-09T16:39:03.707902 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233274928_w269_h230_shtativ-dlya-bolgarki.jpg
+I, [2024-11-09T16:39:03.709164 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/87ca2a8e-9820-48b1-b161-c7603b19f9bb.jpg
+I, [2024-11-09T16:39:03.709222 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, price: 900 ₴, description: , category: 24ka, image_path: media_dir/24ka/87ca2a8e-9820-48b1-b161-c7603b19f9bb.jpg
+I, [2024-11-09T16:39:03.709251 #28780]  INFO -- : Processed file: Parsed product: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, Price: 900 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/87ca2a8e-9820-48b1-b161-c7603b19f9bb.jpg
+I, [2024-11-09T16:39:03.797322 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258769_w358_h473_disk-freza-universalnij-po.jpg
+I, [2024-11-09T16:39:03.835179 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/7a2b62e1-63ac-415c-a62f-070f3fea9611.jpg
+I, [2024-11-09T16:39:03.835247 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, price: 800 ₴, description: , category: 24ka, image_path: media_dir/24ka/7a2b62e1-63ac-415c-a62f-070f3fea9611.jpg
+I, [2024-11-09T16:39:03.835279 #28780]  INFO -- : Processed file: Parsed product: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, Price: 800 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/7a2b62e1-63ac-415c-a62f-070f3fea9611.jpg
+I, [2024-11-09T16:39:03.906091 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/48ba6ffc-5cfc-451a-9869-b00f641aefa9.jpg
+I, [2024-11-09T16:39:03.906156 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, price: 1 900 ₴, description: , category: 24ka, image_path: media_dir/24ka/48ba6ffc-5cfc-451a-9869-b00f641aefa9.jpg
+I, [2024-11-09T16:39:03.906183 #28780]  INFO -- : Processed file: Parsed product: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/48ba6ffc-5cfc-451a-9869-b00f641aefa9.jpg
+I, [2024-11-09T16:39:03.919743 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233191407_w358_h473_akumulyatorna-bolgarka-yato.jpg
+I, [2024-11-09T16:39:03.942900 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233277666_w1081_h473_nizkooborotna-bolgarka-125mm.jpg
+I, [2024-11-09T16:39:03.944196 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/5fa7386c-6fa4-4e32-b25f-57c930c4a531.jpg
+I, [2024-11-09T16:39:03.944251 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Акумуляторна болгарка YATO YT-82826, price: 3 250 ₴, description: , category: 24ka, image_path: media_dir/24ka/5fa7386c-6fa4-4e32-b25f-57c930c4a531.jpg
+I, [2024-11-09T16:39:03.944290 #28780]  INFO -- : Processed file: Parsed product: Акумуляторна болгарка YATO YT-82826, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/5fa7386c-6fa4-4e32-b25f-57c930c4a531.jpg
+I, [2024-11-09T16:39:03.973290 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217310_w358_h473_shtroboriz-1700-vt.jpg
+I, [2024-11-09T16:39:03.986695 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238792_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:03.990791 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/57b8702c-ab4b-435d-9aa7-98ed8e331245.jpg
+I, [2024-11-09T16:39:03.990861 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, price: 3 250 ₴, description: , category: 24ka, image_path: media_dir/24ka/57b8702c-ab4b-435d-9aa7-98ed8e331245.jpg
+I, [2024-11-09T16:39:03.990896 #28780]  INFO -- : Processed file: Parsed product: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/57b8702c-ab4b-435d-9aa7-98ed8e331245.jpg
+I, [2024-11-09T16:39:04.000706 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/2d8e48e1-8f51-4b40-be79-1c2bb8fbaf42.jpg
+I, [2024-11-09T16:39:04.000771 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штроборіз 1700 Вт 125 мм YATO YT-82015, price: 4 750 ₴, description: , category: 24ka, image_path: media_dir/24ka/2d8e48e1-8f51-4b40-be79-1c2bb8fbaf42.jpg
+I, [2024-11-09T16:39:04.000797 #28780]  INFO -- : Processed file: Parsed product: Штроборіз 1700 Вт 125 мм YATO YT-82015, Price: 4 750 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/2d8e48e1-8f51-4b40-be79-1c2bb8fbaf42.jpg
+I, [2024-11-09T16:39:04.003941 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/e80caf14-da50-4fda-ab6d-a5f7643aff53.jpg
+I, [2024-11-09T16:39:04.004016 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, price: 1 500 ₴, description: , category: 24ka, image_path: media_dir/24ka/e80caf14-da50-4fda-ab6d-a5f7643aff53.jpg
+I, [2024-11-09T16:39:04.004045 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, Price: 1 500 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/e80caf14-da50-4fda-ab6d-a5f7643aff53.jpg
+I, [2024-11-09T16:39:04.030439 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188647_w358_h473_shlifmashina-kutova-230mm.jpg
+I, [2024-11-09T16:39:04.044992 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188624_w358_h473_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T16:39:04.046440 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/eaa5808f-fdf5-4dbd-b4f7-c71cf632215c.jpg
+I, [2024-11-09T16:39:04.046498 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 230мм YATO YT-82110, price: 3 900 ₴, description: , category: 24ka, image_path: media_dir/24ka/eaa5808f-fdf5-4dbd-b4f7-c71cf632215c.jpg
+I, [2024-11-09T16:39:04.046525 #28780]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 230мм YATO YT-82110, Price: 3 900 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/eaa5808f-fdf5-4dbd-b4f7-c71cf632215c.jpg
+I, [2024-11-09T16:39:04.058418 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268326_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:04.069819 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189962_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T16:39:04.071024 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/8f36952d-9669-44be-bbcc-febe0b433c9b.jpg
+I, [2024-11-09T16:39:04.071083 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, price: 1 650 ₴, description: , category: 24ka, image_path: media_dir/24ka/8f36952d-9669-44be-bbcc-febe0b433c9b.jpg
+I, [2024-11-09T16:39:04.071110 #28780]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, Price: 1 650 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/8f36952d-9669-44be-bbcc-febe0b433c9b.jpg
+I, [2024-11-09T16:39:04.092260 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/20ca892e-740d-4f15-aa11-6fbb7085179d.jpg
+I, [2024-11-09T16:39:04.092355 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09675, price: 2 400 ₴, description: , category: 24ka, image_path: media_dir/24ka/20ca892e-740d-4f15-aa11-6fbb7085179d.jpg
+I, [2024-11-09T16:39:04.092398 #28780]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09675, Price: 2 400 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/20ca892e-740d-4f15-aa11-6fbb7085179d.jpg
+I, [2024-11-09T16:39:04.097129 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/0ccbc4d1-0c95-4ea8-a945-8ec87f883bd8.jpg
+I, [2024-11-09T16:39:04.097210 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, price: 4 800 ₴, description: , category: 24ka, image_path: media_dir/24ka/0ccbc4d1-0c95-4ea8-a945-8ec87f883bd8.jpg
+I, [2024-11-09T16:39:04.097244 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, Price: 4 800 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/0ccbc4d1-0c95-4ea8-a945-8ec87f883bd8.jpg
+I, [2024-11-09T16:39:04.175444 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218944_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:04.189680 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233212659_w358_h473_rizak-pnevmatichnij-yato.jpg
+I, [2024-11-09T16:39:04.191390 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/b224ccf2-5eba-4a24-b896-50d3fe4a3459.jpg
+I, [2024-11-09T16:39:04.191455 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм YATO YT-82099, price: 2 250 ₴, description: , category: 24ka, image_path: media_dir/24ka/b224ccf2-5eba-4a24-b896-50d3fe4a3459.jpg
+I, [2024-11-09T16:39:04.191483 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм YATO YT-82099, Price: 2 250 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/b224ccf2-5eba-4a24-b896-50d3fe4a3459.jpg
+I, [2024-11-09T16:39:04.205677 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/5916b505-2fd0-4e93-977f-47ce922d6362.jpg
+I, [2024-11-09T16:39:04.205741 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак пневматичний YATO YT-09717, price: 900 ₴, description: , category: 24ka, image_path: media_dir/24ka/5916b505-2fd0-4e93-977f-47ce922d6362.jpg
+I, [2024-11-09T16:39:04.205768 #28780]  INFO -- : Processed file: Parsed product: Різак пневматичний YATO YT-09717, Price: 900 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/5916b505-2fd0-4e93-977f-47ce922d6362.jpg
+I, [2024-11-09T16:39:04.270640 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233197253_w269_h230_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T16:39:04.281529 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189973_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T16:39:04.287965 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/52edffc1-e9df-4c11-8341-f9047f5baa45.jpg
+I, [2024-11-09T16:39:04.288060 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, price: 5 300 ₴, description: , category: 24ka, image_path: media_dir/24ka/52edffc1-e9df-4c11-8341-f9047f5baa45.jpg
+I, [2024-11-09T16:39:04.288101 #28780]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, Price: 5 300 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/52edffc1-e9df-4c11-8341-f9047f5baa45.jpg
+I, [2024-11-09T16:39:04.296161 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/c9a423f9-d712-48f2-9676-127edafc500d.jpg
+I, [2024-11-09T16:39:04.296227 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09715, price: 850 ₴, description: , category: 24ka, image_path: media_dir/24ka/c9a423f9-d712-48f2-9676-127edafc500d.jpg
+I, [2024-11-09T16:39:04.296253 #28780]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09715, Price: 850 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/c9a423f9-d712-48f2-9676-127edafc500d.jpg
+I, [2024-11-09T16:39:04.339298 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268322_w1081_h473_krugla-shlifuvalna-golovka.jpg
+I, [2024-11-09T16:39:04.384713 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/bf3010f1-98d2-4a04-9714-270467498a9c.jpg
+I, [2024-11-09T16:39:04.384780 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кругла шліфувальна головка 225мм для YATO YT-82353, price: 300 ₴, description: , category: 24ka, image_path: media_dir/24ka/bf3010f1-98d2-4a04-9714-270467498a9c.jpg
+I, [2024-11-09T16:39:04.384807 #28780]  INFO -- : Processed file: Parsed product: Кругла шліфувальна головка 225мм для YATO YT-82353, Price: 300 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/bf3010f1-98d2-4a04-9714-270467498a9c.jpg
+I, [2024-11-09T16:39:04.489493 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258681_w269_h230_nasadka-dlya-shlifuvannya.jpg
+I, [2024-11-09T16:39:04.544345 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/35fcc0e2-b891-4629-9974-f3bd1d4338b5.jpg
+I, [2024-11-09T16:39:04.544441 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Насадка для шліфування плитки під кутом YATO YT-82985, price: 1 050 ₴, description: , category: 24ka, image_path: media_dir/24ka/35fcc0e2-b891-4629-9974-f3bd1d4338b5.jpg
+I, [2024-11-09T16:39:04.544493 #28780]  INFO -- : Processed file: Parsed product: Насадка для шліфування плитки під кутом YATO YT-82985, Price: 1 050 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/35fcc0e2-b891-4629-9974-f3bd1d4338b5.jpg
+I, [2024-11-09T16:39:04.579424 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188668_w358_h473_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T16:39:04.590910 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258730_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:04.608620 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/36c17020-f7a2-405e-85d4-37f4e480fd35.jpg
+I, [2024-11-09T16:39:04.608685 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, price: 2 700 ₴, description: , category: 24ka, image_path: media_dir/24ka/36c17020-f7a2-405e-85d4-37f4e480fd35.jpg
+I, [2024-11-09T16:39:04.608994 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, Price: 2 700 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/36c17020-f7a2-405e-85d4-37f4e480fd35.jpg
+I, [2024-11-09T16:39:04.848250 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/12e4331f-e1e4-4d33-8fd8-bf60595b028f.jpg
+I, [2024-11-09T16:39:04.848316 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, price: 1 950 ₴, description: , category: 24ka, image_path: media_dir/24ka/12e4331f-e1e4-4d33-8fd8-bf60595b028f.jpg
+I, [2024-11-09T16:39:04.848343 #28780]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, Price: 1 950 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/12e4331f-e1e4-4d33-8fd8-bf60595b028f.jpg
+I, [2024-11-09T16:39:04.848437 #28780]  INFO -- : Processed file: Finished parsing up to  product pages
+I, [2024-11-09T16:39:04.856169 #28780]  INFO -- : Processed file: example_file
+I, [2024-11-09T16:39:04.857215 #28780]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config ./config/yaml/web_parser.yaml
+I, [2024-11-09T16:39:04.857259 #28780]  INFO -- : Processed file: Starting parsing process
+I, [2024-11-09T16:39:07.135780 #28780]  INFO -- : Processed file: Extracted 24 product links
+I, [2024-11-09T16:39:09.207163 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233191407_w358_h473_akumulyatorna-bolgarka-yato.jpg
+I, [2024-11-09T16:39:09.238447 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258743_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:09.267492 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217251_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:09.288831 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188647_w358_h473_shlifmashina-kutova-230mm.jpg
+I, [2024-11-09T16:39:09.317873 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/efdabda3-2dd5-4811-9170-94ab29a6a681.jpg
+I, [2024-11-09T16:39:09.317945 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Акумуляторна болгарка YATO YT-82826, price: 3 250 ₴, description: , category: 24ka, image_path: media_dir/24ka/efdabda3-2dd5-4811-9170-94ab29a6a681.jpg
+I, [2024-11-09T16:39:09.317975 #28780]  INFO -- : Processed file: Parsed product: Акумуляторна болгарка YATO YT-82826, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/efdabda3-2dd5-4811-9170-94ab29a6a681.jpg
+I, [2024-11-09T16:39:09.352897 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/98965334-6560-49d1-8da6-ee7eb4706c8c.jpg
+I, [2024-11-09T16:39:09.352968 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 230 мм YATO YT-82105, price: 3 600 ₴, description: , category: 24ka, image_path: media_dir/24ka/98965334-6560-49d1-8da6-ee7eb4706c8c.jpg
+I, [2024-11-09T16:39:09.352996 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 230 мм YATO YT-82105, Price: 3 600 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/98965334-6560-49d1-8da6-ee7eb4706c8c.jpg
+I, [2024-11-09T16:39:09.354389 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/93dde6ec-d3d0-4bfe-a5d5-427b1926e12d.jpg
+I, [2024-11-09T16:39:09.354452 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, price: 3 000 ₴, description: , category: 24ka, image_path: media_dir/24ka/93dde6ec-d3d0-4bfe-a5d5-427b1926e12d.jpg
+I, [2024-11-09T16:39:09.354494 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, Price: 3 000 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/93dde6ec-d3d0-4bfe-a5d5-427b1926e12d.jpg
+I, [2024-11-09T16:39:09.365589 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/997bf160-04cf-4861-81b6-ca53d8880901.jpg
+I, [2024-11-09T16:39:09.365656 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 230мм YATO YT-82110, price: 3 900 ₴, description: , category: 24ka, image_path: media_dir/24ka/997bf160-04cf-4861-81b6-ca53d8880901.jpg
+I, [2024-11-09T16:39:09.365685 #28780]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 230мм YATO YT-82110, Price: 3 900 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/997bf160-04cf-4861-81b6-ca53d8880901.jpg
+I, [2024-11-09T16:39:09.390597 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233248341_w358_h473_disk-freza-shlifuvalnij-po.jpg
+I, [2024-11-09T16:39:09.416359 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/14570fcc-d1a6-42db-b5f2-ab6c51764b78.jpg
+I, [2024-11-09T16:39:09.416467 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, price: 900 ₴, description: , category: 24ka, image_path: media_dir/24ka/14570fcc-d1a6-42db-b5f2-ab6c51764b78.jpg
+I, [2024-11-09T16:39:09.416545 #28780]  INFO -- : Processed file: Parsed product: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, Price: 900 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/14570fcc-d1a6-42db-b5f2-ab6c51764b78.jpg
+I, [2024-11-09T16:39:09.426025 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233274928_w269_h230_shtativ-dlya-bolgarki.jpg
+I, [2024-11-09T16:39:09.451349 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258681_w269_h230_nasadka-dlya-shlifuvannya.jpg
+I, [2024-11-09T16:39:09.452838 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/19ecc1af-d3a6-408a-bab7-6952b684f607.jpg
+I, [2024-11-09T16:39:09.452911 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, price: 1 900 ₴, description: , category: 24ka, image_path: media_dir/24ka/19ecc1af-d3a6-408a-bab7-6952b684f607.jpg
+I, [2024-11-09T16:39:09.452942 #28780]  INFO -- : Processed file: Parsed product: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/19ecc1af-d3a6-408a-bab7-6952b684f607.jpg
+I, [2024-11-09T16:39:09.468676 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/b9a1fe12-90e8-453b-a4ce-05dc4d8218be.jpg
+I, [2024-11-09T16:39:09.468756 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Насадка для шліфування плитки під кутом YATO YT-82985, price: 1 050 ₴, description: , category: 24ka, image_path: media_dir/24ka/b9a1fe12-90e8-453b-a4ce-05dc4d8218be.jpg
+I, [2024-11-09T16:39:09.468791 #28780]  INFO -- : Processed file: Parsed product: Насадка для шліфування плитки під кутом YATO YT-82985, Price: 1 050 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/b9a1fe12-90e8-453b-a4ce-05dc4d8218be.jpg
+I, [2024-11-09T16:39:09.512177 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268322_w1081_h473_krugla-shlifuvalna-golovka.jpg
+I, [2024-11-09T16:39:09.528677 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233197253_w269_h230_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T16:39:09.538416 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238780_w1081_h473_rizak-dlya-metalu.jpg
+I, [2024-11-09T16:39:09.555703 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/5e3ec133-d558-4cbb-a1c8-4eb8d6981a28.jpg
+I, [2024-11-09T16:39:09.555766 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кругла шліфувальна головка 225мм для YATO YT-82353, price: 300 ₴, description: , category: 24ka, image_path: media_dir/24ka/5e3ec133-d558-4cbb-a1c8-4eb8d6981a28.jpg
+I, [2024-11-09T16:39:09.555792 #28780]  INFO -- : Processed file: Parsed product: Кругла шліфувальна головка 225мм для YATO YT-82353, Price: 300 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/5e3ec133-d558-4cbb-a1c8-4eb8d6981a28.jpg
+I, [2024-11-09T16:39:09.557238 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/dafe993d-2a39-4202-8592-10e1e7a0ed8f.jpg
+I, [2024-11-09T16:39:09.557308 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, price: 5 300 ₴, description: , category: 24ka, image_path: media_dir/24ka/dafe993d-2a39-4202-8592-10e1e7a0ed8f.jpg
+I, [2024-11-09T16:39:09.557335 #28780]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, Price: 5 300 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/dafe993d-2a39-4202-8592-10e1e7a0ed8f.jpg
+I, [2024-11-09T16:39:09.561609 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/fa22a809-3bb4-46f4-83d1-8bcc0e2a6981.jpg
+I, [2024-11-09T16:39:09.561757 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, price: 6 200 ₴, description: , category: 24ka, image_path: media_dir/24ka/fa22a809-3bb4-46f4-83d1-8bcc0e2a6981.jpg
+I, [2024-11-09T16:39:09.561809 #28780]  INFO -- : Processed file: Parsed product: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, Price: 6 200 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/fa22a809-3bb4-46f4-83d1-8bcc0e2a6981.jpg
+I, [2024-11-09T16:39:09.586398 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233277666_w1081_h473_nizkooborotna-bolgarka-125mm.jpg
+I, [2024-11-09T16:39:09.627559 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268326_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:09.629119 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/af4440c3-f466-4ef2-ad9a-907dabb4e6d4.jpg
+I, [2024-11-09T16:39:09.629186 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, price: 3 250 ₴, description: , category: 24ka, image_path: media_dir/24ka/af4440c3-f466-4ef2-ad9a-907dabb4e6d4.jpg
+I, [2024-11-09T16:39:09.629215 #28780]  INFO -- : Processed file: Parsed product: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/af4440c3-f466-4ef2-ad9a-907dabb4e6d4.jpg
+I, [2024-11-09T16:39:09.644250 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/dce98ee0-efd7-4d05-b6b0-cfe813bd5f56.jpg
+I, [2024-11-09T16:39:09.644334 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, price: 4 800 ₴, description: , category: 24ka, image_path: media_dir/24ka/dce98ee0-efd7-4d05-b6b0-cfe813bd5f56.jpg
+I, [2024-11-09T16:39:09.644369 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, Price: 4 800 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/dce98ee0-efd7-4d05-b6b0-cfe813bd5f56.jpg
+I, [2024-11-09T16:39:09.688291 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217310_w358_h473_shtroboriz-1700-vt.jpg
+I, [2024-11-09T16:39:09.708214 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218964_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:09.709357 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/a2d939e3-9665-473f-9986-ebebe8d058e8.jpg
+I, [2024-11-09T16:39:09.709412 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штроборіз 1700 Вт 125 мм YATO YT-82015, price: 4 750 ₴, description: , category: 24ka, image_path: media_dir/24ka/a2d939e3-9665-473f-9986-ebebe8d058e8.jpg
+I, [2024-11-09T16:39:09.709439 #28780]  INFO -- : Processed file: Parsed product: Штроборіз 1700 Вт 125 мм YATO YT-82015, Price: 4 750 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/a2d939e3-9665-473f-9986-ebebe8d058e8.jpg
+I, [2024-11-09T16:39:09.726943 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/d27e2ddb-2b66-4e35-87c4-852fdcc82f46.jpg
+I, [2024-11-09T16:39:09.727012 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, price: 2 000 ₴, description: , category: 24ka, image_path: media_dir/24ka/d27e2ddb-2b66-4e35-87c4-852fdcc82f46.jpg
+I, [2024-11-09T16:39:09.727041 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, Price: 2 000 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/d27e2ddb-2b66-4e35-87c4-852fdcc82f46.jpg
+I, [2024-11-09T16:39:09.844383 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233212659_w358_h473_rizak-pnevmatichnij-yato.jpg
+I, [2024-11-09T16:39:09.860942 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/e3c05219-c327-494c-a85c-720be6beebe4.jpg
+I, [2024-11-09T16:39:09.861054 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак пневматичний YATO YT-09717, price: 900 ₴, description: , category: 24ka, image_path: media_dir/24ka/e3c05219-c327-494c-a85c-720be6beebe4.jpg
+I, [2024-11-09T16:39:09.861120 #28780]  INFO -- : Processed file: Parsed product: Різак пневматичний YATO YT-09717, Price: 900 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/e3c05219-c327-494c-a85c-720be6beebe4.jpg
+I, [2024-11-09T16:39:09.898980 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258730_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:09.910409 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218944_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:09.988561 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/26d34f0c-5014-4706-a5a9-185253485a6d.jpg
+I, [2024-11-09T16:39:09.988906 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм YATO YT-82099, price: 2 250 ₴, description: , category: 24ka, image_path: media_dir/24ka/26d34f0c-5014-4706-a5a9-185253485a6d.jpg
+I, [2024-11-09T16:39:09.989234 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм YATO YT-82099, Price: 2 250 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/26d34f0c-5014-4706-a5a9-185253485a6d.jpg
+I, [2024-11-09T16:39:09.988835 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/19ec3e8f-464b-436d-bf78-144f16b445d8.jpg
+I, [2024-11-09T16:39:09.989519 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, price: 2 700 ₴, description: , category: 24ka, image_path: media_dir/24ka/19ec3e8f-464b-436d-bf78-144f16b445d8.jpg
+I, [2024-11-09T16:39:09.989627 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, Price: 2 700 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/19ec3e8f-464b-436d-bf78-144f16b445d8.jpg
+I, [2024-11-09T16:39:10.016132 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188624_w358_h473_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T16:39:10.003760 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188668_w358_h473_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T16:39:10.030886 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238792_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:39:10.047382 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258769_w358_h473_disk-freza-universalnij-po.jpg
+I, [2024-11-09T16:39:10.051157 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/c3c828bf-9295-4a0c-8f0a-902867dd1d45.jpg
+I, [2024-11-09T16:39:10.051284 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, price: 1 500 ₴, description: , category: 24ka, image_path: media_dir/24ka/c3c828bf-9295-4a0c-8f0a-902867dd1d45.jpg
+I, [2024-11-09T16:39:10.051325 #28780]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, Price: 1 500 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/c3c828bf-9295-4a0c-8f0a-902867dd1d45.jpg
+I, [2024-11-09T16:39:10.051221 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/5270ad31-76cf-4e80-825b-7726871522c7.jpg
+I, [2024-11-09T16:39:10.051436 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, price: 1 650 ₴, description: , category: 24ka, image_path: media_dir/24ka/5270ad31-76cf-4e80-825b-7726871522c7.jpg
+I, [2024-11-09T16:39:10.051485 #28780]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, Price: 1 650 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/5270ad31-76cf-4e80-825b-7726871522c7.jpg
+I, [2024-11-09T16:39:10.060371 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/a161fca0-e121-4a2e-a2b4-c4f7441c975e.jpg
+I, [2024-11-09T16:39:10.060551 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, price: 1 950 ₴, description: , category: 24ka, image_path: media_dir/24ka/a161fca0-e121-4a2e-a2b4-c4f7441c975e.jpg
+I, [2024-11-09T16:39:10.060809 #28780]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, Price: 1 950 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/a161fca0-e121-4a2e-a2b4-c4f7441c975e.jpg
+I, [2024-11-09T16:39:10.095196 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/2c0ac8a5-1a7a-4ddb-8f54-81ad8e406d2f.jpg
+I, [2024-11-09T16:39:10.095313 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, price: 800 ₴, description: , category: 24ka, image_path: media_dir/24ka/2c0ac8a5-1a7a-4ddb-8f54-81ad8e406d2f.jpg
+I, [2024-11-09T16:39:10.095344 #28780]  INFO -- : Processed file: Parsed product: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, Price: 800 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/2c0ac8a5-1a7a-4ddb-8f54-81ad8e406d2f.jpg
+I, [2024-11-09T16:39:10.111015 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189962_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T16:39:10.135790 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/dbf21ff9-2574-4325-be40-fbde39e62353.jpg
+I, [2024-11-09T16:39:10.135878 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09675, price: 2 400 ₴, description: , category: 24ka, image_path: media_dir/24ka/dbf21ff9-2574-4325-be40-fbde39e62353.jpg
+I, [2024-11-09T16:39:10.135907 #28780]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09675, Price: 2 400 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/dbf21ff9-2574-4325-be40-fbde39e62353.jpg
+I, [2024-11-09T16:39:10.252116 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189973_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T16:39:10.272859 #28780]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188637_w269_h230_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T16:39:10.289749 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/bf96a301-17a0-4ccf-8045-5a89507c3263.jpg
+I, [2024-11-09T16:39:10.289814 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм YATO YT-82101, price: 1 900 ₴, description: , category: 24ka, image_path: media_dir/24ka/bf96a301-17a0-4ccf-8045-5a89507c3263.jpg
+I, [2024-11-09T16:39:10.289843 #28780]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм YATO YT-82101, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/bf96a301-17a0-4ccf-8045-5a89507c3263.jpg
+I, [2024-11-09T16:39:10.299407 #28780]  INFO -- : Processed file: Saved image to media_dir/24ka/f2cd4fbe-9a63-439f-b7f4-90a0825c1bdc.jpg
+I, [2024-11-09T16:39:10.299485 #28780]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09715, price: 850 ₴, description: , category: 24ka, image_path: media_dir/24ka/f2cd4fbe-9a63-439f-b7f4-90a0825c1bdc.jpg
+I, [2024-11-09T16:39:10.299518 #28780]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09715, Price: 850 ₴, Description: , Category: 24ka, Image Path: media_dir/24ka/f2cd4fbe-9a63-439f-b7f4-90a0825c1bdc.jpg
+I, [2024-11-09T16:39:10.299618 #28780]  INFO -- : Processed file: Finished parsing up to  product pages
+I, [2024-11-09T16:51:44.661424 #35548]  INFO -- : Processed file: example_file
+I, [2024-11-09T16:51:44.665006 #35548]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config ./config/yaml/web_parser.yaml
+I, [2024-11-09T16:52:00.290866 #35683]  INFO -- : Processed file: example_file
+I, [2024-11-09T16:52:00.293281 #35683]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config ./config/yaml/web_parser.yaml
+I, [2024-11-09T16:53:31.960266 #36424]  INFO -- : Processed file: example_file
+I, [2024-11-09T16:53:58.455401 #36638]  INFO -- : Processed file: example_file
+I, [2024-11-09T16:53:58.458567 #36638]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config ./config/yaml/web_parser.yaml
+I, [2024-11-09T16:54:11.081078 #36739]  INFO -- : Processed file: example_file
+I, [2024-11-09T16:54:11.083764 #36739]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config config/yaml/web_parser.yaml
+I, [2024-11-09T16:55:22.165219 #37412]  INFO -- : Processed file: example_file
+I, [2024-11-09T16:55:22.167392 #37412]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config config/yaml/web_parser.yaml
+I, [2024-11-09T16:55:22.976537 #37412]  INFO -- : Processed file: Starting parsing process
+I, [2024-11-09T16:55:24.522860 #37412]  INFO -- : Processed file: Extracted 24 product links
+I, [2024-11-09T16:55:26.407901 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268322_w1081_h473_krugla-shlifuvalna-golovka.jpg
+I, [2024-11-09T16:55:26.500240 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238780_w1081_h473_rizak-dlya-metalu.jpg
+I, [2024-11-09T16:55:26.509723 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268326_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:55:26.545987 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258769_w358_h473_disk-freza-universalnij-po.jpg
+I, [2024-11-09T16:55:26.554331 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233212659_w358_h473_rizak-pnevmatichnij-yato.jpg
+I, [2024-11-09T16:55:26.562656 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217251_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:55:26.610626 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233191407_w358_h473_akumulyatorna-bolgarka-yato.jpg
+I, [2024-11-09T16:55:26.570790 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188647_w358_h473_shlifmashina-kutova-230mm.jpg
+I, [2024-11-09T16:55:26.666251 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188624_w358_h473_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T16:55:26.677358 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258730_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:55:26.687061 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189973_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T16:55:26.713233 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218944_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:55:26.703205 #37412]  INFO -- : Processed file: Saved image to media/24ka/62ffd8b8-e111-4bef-a5d8-f55c54623592.jpg
+I, [2024-11-09T16:55:26.746526 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, price: 6 200 ₴, description: , category: 24ka, image_path: media/24ka/62ffd8b8-e111-4bef-a5d8-f55c54623592.jpg
+I, [2024-11-09T16:55:26.747034 #37412]  INFO -- : Processed file: Parsed product: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, Price: 6 200 ₴, Description: , Category: 24ka, Image Path: media/24ka/62ffd8b8-e111-4bef-a5d8-f55c54623592.jpg
+I, [2024-11-09T16:55:26.756706 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258743_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:55:26.758329 #37412]  INFO -- : Processed file: Saved image to media/24ka/44f241dc-a413-4fbc-a35e-65a7f0416cc2.jpg
+I, [2024-11-09T16:55:26.758920 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак пневматичний YATO YT-09717, price: 900 ₴, description: , category: 24ka, image_path: media/24ka/44f241dc-a413-4fbc-a35e-65a7f0416cc2.jpg
+I, [2024-11-09T16:55:26.759276 #37412]  INFO -- : Processed file: Parsed product: Різак пневматичний YATO YT-09717, Price: 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/44f241dc-a413-4fbc-a35e-65a7f0416cc2.jpg
+I, [2024-11-09T16:55:26.730753 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188668_w358_h473_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T16:55:26.769324 #37412]  INFO -- : Processed file: Saved image to media/24ka/fa99272a-73d4-4d18-bb97-df1a2348019c.jpg
+I, [2024-11-09T16:55:26.771049 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 230мм YATO YT-82110, price: 3 900 ₴, description: , category: 24ka, image_path: media/24ka/fa99272a-73d4-4d18-bb97-df1a2348019c.jpg
+I, [2024-11-09T16:55:26.771398 #37412]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 230мм YATO YT-82110, Price: 3 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/fa99272a-73d4-4d18-bb97-df1a2348019c.jpg
+I, [2024-11-09T16:55:26.703154 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233248341_w358_h473_disk-freza-shlifuvalnij-po.jpg
+I, [2024-11-09T16:55:26.772215 #37412]  INFO -- : Processed file: Saved image to media/24ka/1873380b-8fb7-41b0-a574-496989b55fa6.jpg
+I, [2024-11-09T16:55:26.772669 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09715, price: 850 ₴, description: , category: 24ka, image_path: media/24ka/1873380b-8fb7-41b0-a574-496989b55fa6.jpg
+I, [2024-11-09T16:55:26.772924 #37412]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09715, Price: 850 ₴, Description: , Category: 24ka, Image Path: media/24ka/1873380b-8fb7-41b0-a574-496989b55fa6.jpg
+I, [2024-11-09T16:55:26.759685 #37412]  INFO -- : Processed file: Saved image to media/24ka/7bef84d7-f61e-4b57-a0fe-c97228abf6fc.jpg
+I, [2024-11-09T16:55:26.782280 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, price: 800 ₴, description: , category: 24ka, image_path: media/24ka/7bef84d7-f61e-4b57-a0fe-c97228abf6fc.jpg
+I, [2024-11-09T16:55:26.782404 #37412]  INFO -- : Processed file: Parsed product: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, Price: 800 ₴, Description: , Category: 24ka, Image Path: media/24ka/7bef84d7-f61e-4b57-a0fe-c97228abf6fc.jpg
+I, [2024-11-09T16:55:26.756970 #37412]  INFO -- : Processed file: Saved image to media/24ka/0a8858c0-4329-41dc-90d0-64ae1927a185.jpg
+I, [2024-11-09T16:55:26.782625 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 230 мм YATO YT-82105, price: 3 600 ₴, description: , category: 24ka, image_path: media/24ka/0a8858c0-4329-41dc-90d0-64ae1927a185.jpg
+I, [2024-11-09T16:55:26.782698 #37412]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 230 мм YATO YT-82105, Price: 3 600 ₴, Description: , Category: 24ka, Image Path: media/24ka/0a8858c0-4329-41dc-90d0-64ae1927a185.jpg
+I, [2024-11-09T16:55:26.746422 #37412]  INFO -- : Processed file: Saved image to media/24ka/b712062a-6ffc-46ef-8d51-12cf76485b00.jpg
+I, [2024-11-09T16:55:26.782941 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, price: 4 800 ₴, description: , category: 24ka, image_path: media/24ka/b712062a-6ffc-46ef-8d51-12cf76485b00.jpg
+I, [2024-11-09T16:55:26.783029 #37412]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, Price: 4 800 ₴, Description: , Category: 24ka, Image Path: media/24ka/b712062a-6ffc-46ef-8d51-12cf76485b00.jpg
+I, [2024-11-09T16:55:26.781590 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189962_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T16:55:26.721891 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258681_w269_h230_nasadka-dlya-shlifuvannya.jpg
+I, [2024-11-09T16:55:26.769175 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218964_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:55:26.739208 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238792_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:55:26.758390 #37412]  INFO -- : Processed file: Saved image to media/24ka/748f901f-f7e2-4d30-bac9-5b2233955163.jpg
+I, [2024-11-09T16:55:26.785225 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, price: 1 650 ₴, description: , category: 24ka, image_path: media/24ka/748f901f-f7e2-4d30-bac9-5b2233955163.jpg
+I, [2024-11-09T16:55:26.785436 #37412]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, Price: 1 650 ₴, Description: , Category: 24ka, Image Path: media/24ka/748f901f-f7e2-4d30-bac9-5b2233955163.jpg
+I, [2024-11-09T16:55:26.759360 #37412]  INFO -- : Processed file: Saved image to media/24ka/c34ee2b2-00ec-466b-9826-bd6fbdd8d26c.jpg
+I, [2024-11-09T16:55:26.785634 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, price: 2 700 ₴, description: , category: 24ka, image_path: media/24ka/c34ee2b2-00ec-466b-9826-bd6fbdd8d26c.jpg
+I, [2024-11-09T16:55:26.786325 #37412]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, Price: 2 700 ₴, Description: , Category: 24ka, Image Path: media/24ka/c34ee2b2-00ec-466b-9826-bd6fbdd8d26c.jpg
+I, [2024-11-09T16:55:26.772257 #37412]  INFO -- : Processed file: Saved image to media/24ka/5829fb6d-5101-4934-b5cd-2e80197b3cc6.jpg
+I, [2024-11-09T16:55:26.786497 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм YATO YT-82099, price: 2 250 ₴, description: , category: 24ka, image_path: media/24ka/5829fb6d-5101-4934-b5cd-2e80197b3cc6.jpg
+I, [2024-11-09T16:55:26.786557 #37412]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм YATO YT-82099, Price: 2 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/5829fb6d-5101-4934-b5cd-2e80197b3cc6.jpg
+I, [2024-11-09T16:55:26.786372 #37412]  INFO -- : Processed file: Saved image to media/24ka/44d4fd3c-7e19-4585-ba90-e07e457126a8.jpg
+I, [2024-11-09T16:55:26.786697 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кругла шліфувальна головка 225мм для YATO YT-82353, price: 300 ₴, description: , category: 24ka, image_path: media/24ka/44d4fd3c-7e19-4585-ba90-e07e457126a8.jpg
+I, [2024-11-09T16:55:26.786776 #37412]  INFO -- : Processed file: Parsed product: Кругла шліфувальна головка 225мм для YATO YT-82353, Price: 300 ₴, Description: , Category: 24ka, Image Path: media/24ka/44d4fd3c-7e19-4585-ba90-e07e457126a8.jpg
+I, [2024-11-09T16:55:26.786748 #37412]  INFO -- : Processed file: Saved image to media/24ka/9c37fe1b-780f-446e-a517-7c8f92061e74.jpg
+I, [2024-11-09T16:55:26.786848 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, price: 1 950 ₴, description: , category: 24ka, image_path: media/24ka/9c37fe1b-780f-446e-a517-7c8f92061e74.jpg
+I, [2024-11-09T16:55:26.786893 #37412]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, Price: 1 950 ₴, Description: , Category: 24ka, Image Path: media/24ka/9c37fe1b-780f-446e-a517-7c8f92061e74.jpg
+I, [2024-11-09T16:55:26.772297 #37412]  INFO -- : Processed file: Saved image to media/24ka/9f077262-b615-4d40-9783-36e9d6fe5b8f.jpg
+I, [2024-11-09T16:55:26.786959 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Акумуляторна болгарка YATO YT-82826, price: 3 250 ₴, description: , category: 24ka, image_path: media/24ka/9f077262-b615-4d40-9783-36e9d6fe5b8f.jpg
+I, [2024-11-09T16:55:26.786987 #37412]  INFO -- : Processed file: Parsed product: Акумуляторна болгарка YATO YT-82826, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/9f077262-b615-4d40-9783-36e9d6fe5b8f.jpg
+I, [2024-11-09T16:55:26.789763 #37412]  INFO -- : Processed file: Saved image to media/24ka/06695375-b68a-40b7-a5f4-8cf16059899a.jpg
+I, [2024-11-09T16:55:26.789819 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, price: 3 000 ₴, description: , category: 24ka, image_path: media/24ka/06695375-b68a-40b7-a5f4-8cf16059899a.jpg
+I, [2024-11-09T16:55:26.789858 #37412]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, Price: 3 000 ₴, Description: , Category: 24ka, Image Path: media/24ka/06695375-b68a-40b7-a5f4-8cf16059899a.jpg
+I, [2024-11-09T16:55:26.792236 #37412]  INFO -- : Processed file: Saved image to media/24ka/1cfaa6f6-d314-44f2-a0de-79b0ff764b1d.jpg
+I, [2024-11-09T16:55:26.792451 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, price: 900 ₴, description: , category: 24ka, image_path: media/24ka/1cfaa6f6-d314-44f2-a0de-79b0ff764b1d.jpg
+I, [2024-11-09T16:55:26.792505 #37412]  INFO -- : Processed file: Parsed product: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, Price: 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/1cfaa6f6-d314-44f2-a0de-79b0ff764b1d.jpg
+I, [2024-11-09T16:55:26.802406 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233197253_w269_h230_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T16:55:26.805320 #37412]  INFO -- : Processed file: Saved image to media/24ka/ae038a1c-3448-4a40-8f34-6e1bb0a80d82.jpg
+I, [2024-11-09T16:55:26.805481 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, price: 1 500 ₴, description: , category: 24ka, image_path: media/24ka/ae038a1c-3448-4a40-8f34-6e1bb0a80d82.jpg
+I, [2024-11-09T16:55:26.805540 #37412]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, Price: 1 500 ₴, Description: , Category: 24ka, Image Path: media/24ka/ae038a1c-3448-4a40-8f34-6e1bb0a80d82.jpg
+I, [2024-11-09T16:55:26.805390 #37412]  INFO -- : Processed file: Saved image to media/24ka/ae0087fc-a04a-4c91-8a72-d1bf78f7aedc.jpg
+I, [2024-11-09T16:55:26.805646 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09675, price: 2 400 ₴, description: , category: 24ka, image_path: media/24ka/ae0087fc-a04a-4c91-8a72-d1bf78f7aedc.jpg
+I, [2024-11-09T16:55:26.805695 #37412]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09675, Price: 2 400 ₴, Description: , Category: 24ka, Image Path: media/24ka/ae0087fc-a04a-4c91-8a72-d1bf78f7aedc.jpg
+I, [2024-11-09T16:55:26.805427 #37412]  INFO -- : Processed file: Saved image to media/24ka/841e00eb-0e46-4647-8d7a-c7aeae7e7476.jpg
+I, [2024-11-09T16:55:26.805794 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, price: 2 000 ₴, description: , category: 24ka, image_path: media/24ka/841e00eb-0e46-4647-8d7a-c7aeae7e7476.jpg
+I, [2024-11-09T16:55:26.805834 #37412]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, Price: 2 000 ₴, Description: , Category: 24ka, Image Path: media/24ka/841e00eb-0e46-4647-8d7a-c7aeae7e7476.jpg
+I, [2024-11-09T16:55:26.805601 #37412]  INFO -- : Processed file: Saved image to media/24ka/7b4a4084-ec21-4d82-8bf7-88b37bd80afc.jpg
+I, [2024-11-09T16:55:26.805925 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Насадка для шліфування плитки під кутом YATO YT-82985, price: 1 050 ₴, description: , category: 24ka, image_path: media/24ka/7b4a4084-ec21-4d82-8bf7-88b37bd80afc.jpg
+I, [2024-11-09T16:55:26.805959 #37412]  INFO -- : Processed file: Parsed product: Насадка для шліфування плитки під кутом YATO YT-82985, Price: 1 050 ₴, Description: , Category: 24ka, Image Path: media/24ka/7b4a4084-ec21-4d82-8bf7-88b37bd80afc.jpg
+I, [2024-11-09T16:55:26.820422 #37412]  INFO -- : Processed file: Saved image to media/24ka/c94f1bf1-8596-43f1-8ab4-ba5dfa063126.jpg
+I, [2024-11-09T16:55:26.820543 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, price: 5 300 ₴, description: , category: 24ka, image_path: media/24ka/c94f1bf1-8596-43f1-8ab4-ba5dfa063126.jpg
+I, [2024-11-09T16:55:26.820572 #37412]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, Price: 5 300 ₴, Description: , Category: 24ka, Image Path: media/24ka/c94f1bf1-8596-43f1-8ab4-ba5dfa063126.jpg
+I, [2024-11-09T16:55:26.866982 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217310_w358_h473_shtroboriz-1700-vt.jpg
+I, [2024-11-09T16:55:26.882327 #37412]  INFO -- : Processed file: Saved image to media/24ka/61683814-d4e4-4fc5-9f89-c799c039fd78.jpg
+I, [2024-11-09T16:55:26.882404 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штроборіз 1700 Вт 125 мм YATO YT-82015, price: 4 750 ₴, description: , category: 24ka, image_path: media/24ka/61683814-d4e4-4fc5-9f89-c799c039fd78.jpg
+I, [2024-11-09T16:55:26.882439 #37412]  INFO -- : Processed file: Parsed product: Штроборіз 1700 Вт 125 мм YATO YT-82015, Price: 4 750 ₴, Description: , Category: 24ka, Image Path: media/24ka/61683814-d4e4-4fc5-9f89-c799c039fd78.jpg
+I, [2024-11-09T16:55:26.954251 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233277666_w1081_h473_nizkooborotna-bolgarka-125mm.jpg
+I, [2024-11-09T16:55:26.987657 #37412]  INFO -- : Processed file: Saved image to media/24ka/c8189907-c6bc-4c79-bad5-731cf9791908.jpg
+I, [2024-11-09T16:55:26.987723 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, price: 3 250 ₴, description: , category: 24ka, image_path: media/24ka/c8189907-c6bc-4c79-bad5-731cf9791908.jpg
+I, [2024-11-09T16:55:26.987751 #37412]  INFO -- : Processed file: Parsed product: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/c8189907-c6bc-4c79-bad5-731cf9791908.jpg
+I, [2024-11-09T16:55:27.123135 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233274928_w269_h230_shtativ-dlya-bolgarki.jpg
+I, [2024-11-09T16:55:27.145060 #37412]  INFO -- : Processed file: Saved image to media/24ka/7b839f90-86b9-4cdc-9732-ff3ac210fd06.jpg
+I, [2024-11-09T16:55:27.145510 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, price: 1 900 ₴, description: , category: 24ka, image_path: media/24ka/7b839f90-86b9-4cdc-9732-ff3ac210fd06.jpg
+I, [2024-11-09T16:55:27.145546 #37412]  INFO -- : Processed file: Parsed product: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/7b839f90-86b9-4cdc-9732-ff3ac210fd06.jpg
+I, [2024-11-09T16:55:27.256317 #37412]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188637_w269_h230_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T16:55:27.272914 #37412]  INFO -- : Processed file: Saved image to media/24ka/245e1542-c3a2-42fd-88b6-b0cbf7884433.jpg
+I, [2024-11-09T16:55:27.272986 #37412]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм YATO YT-82101, price: 1 900 ₴, description: , category: 24ka, image_path: media/24ka/245e1542-c3a2-42fd-88b6-b0cbf7884433.jpg
+I, [2024-11-09T16:55:27.273014 #37412]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм YATO YT-82101, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/245e1542-c3a2-42fd-88b6-b0cbf7884433.jpg
+I, [2024-11-09T16:55:27.273128 #37412]  INFO -- : Processed file: Finished parsing up to  product pages
+I, [2024-11-09T16:59:16.594511 #39287]  INFO -- : Processed file: example_file
+I, [2024-11-09T16:59:16.597051 #39287]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config config/yaml/web_parser.yaml
+I, [2024-11-09T16:59:17.739801 #39287]  INFO -- : Processed file: Starting parsing process
+I, [2024-11-09T16:59:20.906855 #39287]  INFO -- : Processed file: Extracted 24 product links
+I, [2024-11-09T16:59:22.571505 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238780_w1081_h473_rizak-dlya-metalu.jpg
+I, [2024-11-09T16:59:22.669285 #39287]  INFO -- : Processed file: Saved image to media/24ka/3774971f-0644-4f44-aa72-a3d0b23aef12.jpg
+I, [2024-11-09T16:59:22.669394 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, price: 6 200 ₴, description: , category: 24ka, image_path: media/24ka/3774971f-0644-4f44-aa72-a3d0b23aef12.jpg
+I, [2024-11-09T16:59:22.669439 #39287]  INFO -- : Processed file: Parsed product: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, Price: 6 200 ₴, Description: , Category: 24ka, Image Path: media/24ka/3774971f-0644-4f44-aa72-a3d0b23aef12.jpg
+I, [2024-11-09T16:59:22.800749 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258681_w269_h230_nasadka-dlya-shlifuvannya.jpg
+I, [2024-11-09T16:59:22.825293 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217310_w358_h473_shtroboriz-1700-vt.jpg
+I, [2024-11-09T16:59:22.838501 #39287]  INFO -- : Processed file: Saved image to media/24ka/5fc071f4-f410-4431-bcfd-4cbbb35cecfa.jpg
+I, [2024-11-09T16:59:22.838583 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Насадка для шліфування плитки під кутом YATO YT-82985, price: 1 050 ₴, description: , category: 24ka, image_path: media/24ka/5fc071f4-f410-4431-bcfd-4cbbb35cecfa.jpg
+I, [2024-11-09T16:59:22.838700 #39287]  INFO -- : Processed file: Parsed product: Насадка для шліфування плитки під кутом YATO YT-82985, Price: 1 050 ₴, Description: , Category: 24ka, Image Path: media/24ka/5fc071f4-f410-4431-bcfd-4cbbb35cecfa.jpg
+I, [2024-11-09T16:59:22.865000 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188637_w269_h230_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T16:59:22.884043 #39287]  INFO -- : Processed file: Saved image to media/24ka/bc8f190a-e805-4cc5-bd5b-15ecc4209913.jpg
+I, [2024-11-09T16:59:22.884128 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм YATO YT-82101, price: 1 900 ₴, description: , category: 24ka, image_path: media/24ka/bc8f190a-e805-4cc5-bd5b-15ecc4209913.jpg
+I, [2024-11-09T16:59:22.884167 #39287]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм YATO YT-82101, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/bc8f190a-e805-4cc5-bd5b-15ecc4209913.jpg
+I, [2024-11-09T16:59:22.898004 #39287]  INFO -- : Processed file: Saved image to media/24ka/e60a97be-1876-4e36-ac54-e34a793e6799.jpg
+I, [2024-11-09T16:59:22.898146 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штроборіз 1700 Вт 125 мм YATO YT-82015, price: 4 750 ₴, description: , category: 24ka, image_path: media/24ka/e60a97be-1876-4e36-ac54-e34a793e6799.jpg
+I, [2024-11-09T16:59:22.898192 #39287]  INFO -- : Processed file: Parsed product: Штроборіз 1700 Вт 125 мм YATO YT-82015, Price: 4 750 ₴, Description: , Category: 24ka, Image Path: media/24ka/e60a97be-1876-4e36-ac54-e34a793e6799.jpg
+I, [2024-11-09T16:59:22.910549 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233191407_w358_h473_akumulyatorna-bolgarka-yato.jpg
+I, [2024-11-09T16:59:22.922586 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233212659_w358_h473_rizak-pnevmatichnij-yato.jpg
+I, [2024-11-09T16:59:22.932708 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233277666_w1081_h473_nizkooborotna-bolgarka-125mm.jpg
+I, [2024-11-09T16:59:22.933933 #39287]  INFO -- : Processed file: Saved image to media/24ka/b8187ac4-1868-4f65-a89e-375c26956ae7.jpg
+I, [2024-11-09T16:59:22.933996 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Акумуляторна болгарка YATO YT-82826, price: 3 250 ₴, description: , category: 24ka, image_path: media/24ka/b8187ac4-1868-4f65-a89e-375c26956ae7.jpg
+I, [2024-11-09T16:59:22.934024 #39287]  INFO -- : Processed file: Parsed product: Акумуляторна болгарка YATO YT-82826, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/b8187ac4-1868-4f65-a89e-375c26956ae7.jpg
+I, [2024-11-09T16:59:22.939445 #39287]  INFO -- : Processed file: Saved image to media/24ka/78a60f91-b0f1-4cff-9fd2-f6513259eb14.jpg
+I, [2024-11-09T16:59:22.939523 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак пневматичний YATO YT-09717, price: 900 ₴, description: , category: 24ka, image_path: media/24ka/78a60f91-b0f1-4cff-9fd2-f6513259eb14.jpg
+I, [2024-11-09T16:59:22.939551 #39287]  INFO -- : Processed file: Parsed product: Різак пневматичний YATO YT-09717, Price: 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/78a60f91-b0f1-4cff-9fd2-f6513259eb14.jpg
+I, [2024-11-09T16:59:22.979898 #39287]  INFO -- : Processed file: Saved image to media/24ka/4c41191a-531b-4ad2-a919-682d7776cb7a.jpg
+I, [2024-11-09T16:59:22.979976 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, price: 3 250 ₴, description: , category: 24ka, image_path: media/24ka/4c41191a-531b-4ad2-a919-682d7776cb7a.jpg
+I, [2024-11-09T16:59:22.980010 #39287]  INFO -- : Processed file: Parsed product: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/4c41191a-531b-4ad2-a919-682d7776cb7a.jpg
+I, [2024-11-09T16:59:23.002292 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189973_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T16:59:23.013299 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218944_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:59:23.026928 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233197253_w269_h230_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T16:59:23.028542 #39287]  INFO -- : Processed file: Saved image to media/24ka/ee2d4546-63c3-4ddb-9c15-98111dc35360.jpg
+I, [2024-11-09T16:59:23.028667 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09715, price: 850 ₴, description: , category: 24ka, image_path: media/24ka/ee2d4546-63c3-4ddb-9c15-98111dc35360.jpg
+I, [2024-11-09T16:59:23.028713 #39287]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09715, Price: 850 ₴, Description: , Category: 24ka, Image Path: media/24ka/ee2d4546-63c3-4ddb-9c15-98111dc35360.jpg
+I, [2024-11-09T16:59:23.039784 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188624_w358_h473_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T16:59:23.041206 #39287]  INFO -- : Processed file: Saved image to media/24ka/a8b263ed-0405-4ab0-963e-255a4f4efe78.jpg
+I, [2024-11-09T16:59:23.041302 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм YATO YT-82099, price: 2 250 ₴, description: , category: 24ka, image_path: media/24ka/a8b263ed-0405-4ab0-963e-255a4f4efe78.jpg
+I, [2024-11-09T16:59:23.041350 #39287]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм YATO YT-82099, Price: 2 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/a8b263ed-0405-4ab0-963e-255a4f4efe78.jpg
+I, [2024-11-09T16:59:23.043142 #39287]  INFO -- : Processed file: Saved image to media/24ka/a0a1f1b7-9206-4ad5-b7b0-cbf809b4b59a.jpg
+I, [2024-11-09T16:59:23.043190 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, price: 5 300 ₴, description: , category: 24ka, image_path: media/24ka/a0a1f1b7-9206-4ad5-b7b0-cbf809b4b59a.jpg
+I, [2024-11-09T16:59:23.043216 #39287]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, Price: 5 300 ₴, Description: , Category: 24ka, Image Path: media/24ka/a0a1f1b7-9206-4ad5-b7b0-cbf809b4b59a.jpg
+I, [2024-11-09T16:59:23.066054 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268326_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:59:23.067246 #39287]  INFO -- : Processed file: Saved image to media/24ka/35880a32-82c6-427c-8b87-337cb36324bd.jpg
+I, [2024-11-09T16:59:23.067300 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, price: 1 650 ₴, description: , category: 24ka, image_path: media/24ka/35880a32-82c6-427c-8b87-337cb36324bd.jpg
+I, [2024-11-09T16:59:23.067366 #39287]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, Price: 1 650 ₴, Description: , Category: 24ka, Image Path: media/24ka/35880a32-82c6-427c-8b87-337cb36324bd.jpg
+I, [2024-11-09T16:59:23.082606 #39287]  INFO -- : Processed file: Saved image to media/24ka/24c258dd-f1ef-4038-8d47-575c6bc23c90.jpg
+I, [2024-11-09T16:59:23.082673 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, price: 4 800 ₴, description: , category: 24ka, image_path: media/24ka/24c258dd-f1ef-4038-8d47-575c6bc23c90.jpg
+I, [2024-11-09T16:59:23.082699 #39287]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, Price: 4 800 ₴, Description: , Category: 24ka, Image Path: media/24ka/24c258dd-f1ef-4038-8d47-575c6bc23c90.jpg
+I, [2024-11-09T16:59:23.105550 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218964_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:59:23.115270 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238792_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:59:23.125584 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188668_w358_h473_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T16:59:23.126830 #39287]  INFO -- : Processed file: Saved image to media/24ka/8455250d-f5a2-4df8-a95b-d8550686b80e.jpg
+I, [2024-11-09T16:59:23.126887 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, price: 2 000 ₴, description: , category: 24ka, image_path: media/24ka/8455250d-f5a2-4df8-a95b-d8550686b80e.jpg
+I, [2024-11-09T16:59:23.126914 #39287]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, Price: 2 000 ₴, Description: , Category: 24ka, Image Path: media/24ka/8455250d-f5a2-4df8-a95b-d8550686b80e.jpg
+I, [2024-11-09T16:59:23.132073 #39287]  INFO -- : Processed file: Saved image to media/24ka/d10b8328-3f00-439e-b68e-0bfe60cb0233.jpg
+I, [2024-11-09T16:59:23.132150 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, price: 1 500 ₴, description: , category: 24ka, image_path: media/24ka/d10b8328-3f00-439e-b68e-0bfe60cb0233.jpg
+I, [2024-11-09T16:59:23.132178 #39287]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, Price: 1 500 ₴, Description: , Category: 24ka, Image Path: media/24ka/d10b8328-3f00-439e-b68e-0bfe60cb0233.jpg
+I, [2024-11-09T16:59:23.144417 #39287]  INFO -- : Processed file: Saved image to media/24ka/6b5e41c8-ef93-40bd-b7f6-e3cebcfb932d.jpg
+I, [2024-11-09T16:59:23.144485 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, price: 1 950 ₴, description: , category: 24ka, image_path: media/24ka/6b5e41c8-ef93-40bd-b7f6-e3cebcfb932d.jpg
+I, [2024-11-09T16:59:23.144512 #39287]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, Price: 1 950 ₴, Description: , Category: 24ka, Image Path: media/24ka/6b5e41c8-ef93-40bd-b7f6-e3cebcfb932d.jpg
+I, [2024-11-09T16:59:23.159114 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189962_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T16:59:23.176420 #39287]  INFO -- : Processed file: Saved image to media/24ka/27e013ea-acc9-4602-9f99-0ec86b89f54d.jpg
+I, [2024-11-09T16:59:23.176486 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09675, price: 2 400 ₴, description: , category: 24ka, image_path: media/24ka/27e013ea-acc9-4602-9f99-0ec86b89f54d.jpg
+I, [2024-11-09T16:59:23.176513 #39287]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09675, Price: 2 400 ₴, Description: , Category: 24ka, Image Path: media/24ka/27e013ea-acc9-4602-9f99-0ec86b89f54d.jpg
+I, [2024-11-09T16:59:23.334564 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217251_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:59:23.345592 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268322_w1081_h473_krugla-shlifuvalna-golovka.jpg
+I, [2024-11-09T16:59:23.351644 #39287]  INFO -- : Processed file: Saved image to media/24ka/2d2c7e75-042f-42ed-b54c-d97ef4984d79.jpg
+I, [2024-11-09T16:59:23.351711 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 230 мм YATO YT-82105, price: 3 600 ₴, description: , category: 24ka, image_path: media/24ka/2d2c7e75-042f-42ed-b54c-d97ef4984d79.jpg
+I, [2024-11-09T16:59:23.351738 #39287]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 230 мм YATO YT-82105, Price: 3 600 ₴, Description: , Category: 24ka, Image Path: media/24ka/2d2c7e75-042f-42ed-b54c-d97ef4984d79.jpg
+I, [2024-11-09T16:59:23.388811 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258730_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T16:59:23.390238 #39287]  INFO -- : Processed file: Saved image to media/24ka/cb61336f-4336-477e-b9f1-00964613fbe7.jpg
+I, [2024-11-09T16:59:23.390296 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кругла шліфувальна головка 225мм для YATO YT-82353, price: 300 ₴, description: , category: 24ka, image_path: media/24ka/cb61336f-4336-477e-b9f1-00964613fbe7.jpg
+I, [2024-11-09T16:59:23.390323 #39287]  INFO -- : Processed file: Parsed product: Кругла шліфувальна головка 225мм для YATO YT-82353, Price: 300 ₴, Description: , Category: 24ka, Image Path: media/24ka/cb61336f-4336-477e-b9f1-00964613fbe7.jpg
+I, [2024-11-09T16:59:23.406301 #39287]  INFO -- : Processed file: Saved image to media/24ka/f4ba9a7b-98e2-47f9-994e-f067f884bc68.jpg
+I, [2024-11-09T16:59:23.406368 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, price: 2 700 ₴, description: , category: 24ka, image_path: media/24ka/f4ba9a7b-98e2-47f9-994e-f067f884bc68.jpg
+I, [2024-11-09T16:59:23.406396 #39287]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, Price: 2 700 ₴, Description: , Category: 24ka, Image Path: media/24ka/f4ba9a7b-98e2-47f9-994e-f067f884bc68.jpg
+I, [2024-11-09T16:59:23.440344 #39287]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233248341_w358_h473_disk-freza-shlifuvalnij-po.jpg
+I, [2024-11-09T16:59:23.455169 #39287]  INFO -- : Processed file: Saved image to media/24ka/d3b78f01-10ef-415a-9c20-0426e7cb5df9.jpg
+I, [2024-11-09T16:59:23.455249 #39287]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, price: 900 ₴, description: , category: 24ka, image_path: media/24ka/d3b78f01-10ef-415a-9c20-0426e7cb5df9.jpg
+I, [2024-11-09T16:59:23.455284 #39287]  INFO -- : Processed file: Parsed product: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, Price: 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/d3b78f01-10ef-415a-9c20-0426e7cb5df9.jpg
+I, [2024-11-09T17:01:11.693490 #40241]  INFO -- : Processed file: example_file
+I, [2024-11-09T17:01:11.695894 #40241]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config config/yaml/web_parser.yaml
+I, [2024-11-09T17:01:12.498725 #40241]  INFO -- : Processed file: Starting parsing process
+I, [2024-11-09T17:01:14.067574 #40241]  INFO -- : Processed file: Extracted 24 product links
+I, [2024-11-09T17:01:15.835738 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217310_w358_h473_shtroboriz-1700-vt.jpg
+I, [2024-11-09T17:01:15.857746 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233212659_w358_h473_rizak-pnevmatichnij-yato.jpg
+I, [2024-11-09T17:01:15.922700 #40241]  INFO -- : Processed file: Saved image to media/24ka/1f11d04c-f849-45b4-88e9-dce586f62d95.jpg
+I, [2024-11-09T17:01:15.922794 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штроборіз 1700 Вт 125 мм YATO YT-82015, price: 4 750 ₴, description: , category: 24ka, image_path: media/24ka/1f11d04c-f849-45b4-88e9-dce586f62d95.jpg
+I, [2024-11-09T17:01:15.922836 #40241]  INFO -- : Processed file: Parsed product: Штроборіз 1700 Вт 125 мм YATO YT-82015, Price: 4 750 ₴, Description: , Category: 24ka, Image Path: media/24ka/1f11d04c-f849-45b4-88e9-dce586f62d95.jpg
+I, [2024-11-09T17:01:15.945479 #40241]  INFO -- : Processed file: Saved image to media/24ka/f45bc6c7-b2cd-4ad5-88d5-44903321c2f7.jpg
+I, [2024-11-09T17:01:15.945589 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак пневматичний YATO YT-09717, price: 900 ₴, description: , category: 24ka, image_path: media/24ka/f45bc6c7-b2cd-4ad5-88d5-44903321c2f7.jpg
+I, [2024-11-09T17:01:15.945640 #40241]  INFO -- : Processed file: Parsed product: Різак пневматичний YATO YT-09717, Price: 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/f45bc6c7-b2cd-4ad5-88d5-44903321c2f7.jpg
+I, [2024-11-09T17:01:16.006924 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188637_w269_h230_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T17:01:16.033510 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238780_w1081_h473_rizak-dlya-metalu.jpg
+I, [2024-11-09T17:01:16.034927 #40241]  INFO -- : Processed file: Saved image to media/24ka/a9b56bb6-5634-4e71-b38b-be3464c7b2cb.jpg
+I, [2024-11-09T17:01:16.034991 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм YATO YT-82101, price: 1 900 ₴, description: , category: 24ka, image_path: media/24ka/a9b56bb6-5634-4e71-b38b-be3464c7b2cb.jpg
+I, [2024-11-09T17:01:16.035023 #40241]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм YATO YT-82101, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/a9b56bb6-5634-4e71-b38b-be3464c7b2cb.jpg
+I, [2024-11-09T17:01:16.061181 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268326_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:16.067850 #40241]  INFO -- : Processed file: Saved image to media/24ka/4f5a3236-268e-4762-a8f8-711e8643832b.jpg
+I, [2024-11-09T17:01:16.067980 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, price: 6 200 ₴, description: , category: 24ka, image_path: media/24ka/4f5a3236-268e-4762-a8f8-711e8643832b.jpg
+I, [2024-11-09T17:01:16.069144 #40241]  INFO -- : Processed file: Parsed product: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, Price: 6 200 ₴, Description: , Category: 24ka, Image Path: media/24ka/4f5a3236-268e-4762-a8f8-711e8643832b.jpg
+I, [2024-11-09T17:01:16.078617 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233274928_w269_h230_shtativ-dlya-bolgarki.jpg
+I, [2024-11-09T17:01:16.090099 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189973_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T17:01:16.101795 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258743_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:16.115841 #40241]  INFO -- : Processed file: Saved image to media/24ka/bf437fbd-d945-424d-95b0-44d5e15879df.jpg
+I, [2024-11-09T17:01:16.116183 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, price: 4 800 ₴, description: , category: 24ka, image_path: media/24ka/bf437fbd-d945-424d-95b0-44d5e15879df.jpg
+I, [2024-11-09T17:01:16.116302 #40241]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, Price: 4 800 ₴, Description: , Category: 24ka, Image Path: media/24ka/bf437fbd-d945-424d-95b0-44d5e15879df.jpg
+I, [2024-11-09T17:01:16.127047 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233191407_w358_h473_akumulyatorna-bolgarka-yato.jpg
+I, [2024-11-09T17:01:16.127127 #40241]  INFO -- : Processed file: Saved image to media/24ka/15d7739f-87a1-4e2b-b250-7bba8be0a05b.jpg
+I, [2024-11-09T17:01:16.128175 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, price: 1 900 ₴, description: , category: 24ka, image_path: media/24ka/15d7739f-87a1-4e2b-b250-7bba8be0a05b.jpg
+I, [2024-11-09T17:01:16.128364 #40241]  INFO -- : Processed file: Parsed product: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/15d7739f-87a1-4e2b-b250-7bba8be0a05b.jpg
+I, [2024-11-09T17:01:16.128532 #40241]  INFO -- : Processed file: Saved image to media/24ka/1c528832-6037-41fb-96fc-f10b71595adb.jpg
+I, [2024-11-09T17:01:16.128590 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09715, price: 850 ₴, description: , category: 24ka, image_path: media/24ka/1c528832-6037-41fb-96fc-f10b71595adb.jpg
+I, [2024-11-09T17:01:16.128967 #40241]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09715, Price: 850 ₴, Description: , Category: 24ka, Image Path: media/24ka/1c528832-6037-41fb-96fc-f10b71595adb.jpg
+I, [2024-11-09T17:01:16.142173 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217251_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:16.144618 #40241]  INFO -- : Processed file: Saved image to media/24ka/cea7f95a-82d5-4664-9e45-3be325f262eb.jpg
+I, [2024-11-09T17:01:16.144693 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Акумуляторна болгарка YATO YT-82826, price: 3 250 ₴, description: , category: 24ka, image_path: media/24ka/cea7f95a-82d5-4664-9e45-3be325f262eb.jpg
+I, [2024-11-09T17:01:16.144726 #40241]  INFO -- : Processed file: Parsed product: Акумуляторна болгарка YATO YT-82826, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/cea7f95a-82d5-4664-9e45-3be325f262eb.jpg
+I, [2024-11-09T17:01:16.162767 #40241]  INFO -- : Processed file: Saved image to media/24ka/f447f34d-0faf-4894-b1df-0a8b5a8ab0d3.jpg
+I, [2024-11-09T17:01:16.162855 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 230 мм YATO YT-82105, price: 3 600 ₴, description: , category: 24ka, image_path: media/24ka/f447f34d-0faf-4894-b1df-0a8b5a8ab0d3.jpg
+I, [2024-11-09T17:01:16.162896 #40241]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 230 мм YATO YT-82105, Price: 3 600 ₴, Description: , Category: 24ka, Image Path: media/24ka/f447f34d-0faf-4894-b1df-0a8b5a8ab0d3.jpg
+I, [2024-11-09T17:01:16.190112 #40241]  INFO -- : Processed file: Saved image to media/24ka/2ce8d80a-9101-4812-a813-e8208e014b1f.jpg
+I, [2024-11-09T17:01:16.190220 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, price: 3 000 ₴, description: , category: 24ka, image_path: media/24ka/2ce8d80a-9101-4812-a813-e8208e014b1f.jpg
+I, [2024-11-09T17:01:16.190270 #40241]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, Price: 3 000 ₴, Description: , Category: 24ka, Image Path: media/24ka/2ce8d80a-9101-4812-a813-e8208e014b1f.jpg
+I, [2024-11-09T17:01:16.225320 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233277666_w1081_h473_nizkooborotna-bolgarka-125mm.jpg
+I, [2024-11-09T17:01:16.269928 #40241]  INFO -- : Processed file: Saved image to media/24ka/9b3bef05-e3a7-48b0-8271-c07c44a20192.jpg
+I, [2024-11-09T17:01:16.269998 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, price: 3 250 ₴, description: , category: 24ka, image_path: media/24ka/9b3bef05-e3a7-48b0-8271-c07c44a20192.jpg
+I, [2024-11-09T17:01:16.270031 #40241]  INFO -- : Processed file: Parsed product: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/9b3bef05-e3a7-48b0-8271-c07c44a20192.jpg
+I, [2024-11-09T17:01:16.289595 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188624_w358_h473_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T17:01:16.311065 #40241]  INFO -- : Processed file: Saved image to media/24ka/529865ba-2fe1-41db-b15a-46e1d6876430.jpg
+I, [2024-11-09T17:01:16.311216 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, price: 1 650 ₴, description: , category: 24ka, image_path: media/24ka/529865ba-2fe1-41db-b15a-46e1d6876430.jpg
+I, [2024-11-09T17:01:16.311269 #40241]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, Price: 1 650 ₴, Description: , Category: 24ka, Image Path: media/24ka/529865ba-2fe1-41db-b15a-46e1d6876430.jpg
+I, [2024-11-09T17:01:16.324354 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218964_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:16.344728 #40241]  INFO -- : Processed file: Saved image to media/24ka/424b7527-7433-4dee-8a84-04ca0fe25d75.jpg
+I, [2024-11-09T17:01:16.344807 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, price: 2 000 ₴, description: , category: 24ka, image_path: media/24ka/424b7527-7433-4dee-8a84-04ca0fe25d75.jpg
+I, [2024-11-09T17:01:16.344841 #40241]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, Price: 2 000 ₴, Description: , Category: 24ka, Image Path: media/24ka/424b7527-7433-4dee-8a84-04ca0fe25d75.jpg
+I, [2024-11-09T17:01:16.391485 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218944_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:16.402491 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238792_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:16.407788 #40241]  INFO -- : Processed file: Saved image to media/24ka/d12201f0-235e-43af-b157-d361bc654ccc.jpg
+I, [2024-11-09T17:01:16.407902 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм YATO YT-82099, price: 2 250 ₴, description: , category: 24ka, image_path: media/24ka/d12201f0-235e-43af-b157-d361bc654ccc.jpg
+I, [2024-11-09T17:01:16.408099 #40241]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм YATO YT-82099, Price: 2 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/d12201f0-235e-43af-b157-d361bc654ccc.jpg
+I, [2024-11-09T17:01:16.417578 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233197253_w269_h230_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T17:01:16.421623 #40241]  INFO -- : Processed file: Saved image to media/24ka/3327060c-2403-44f8-8c07-0e2d750ae3ac.jpg
+I, [2024-11-09T17:01:16.421700 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, price: 1 500 ₴, description: , category: 24ka, image_path: media/24ka/3327060c-2403-44f8-8c07-0e2d750ae3ac.jpg
+I, [2024-11-09T17:01:16.421734 #40241]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, Price: 1 500 ₴, Description: , Category: 24ka, Image Path: media/24ka/3327060c-2403-44f8-8c07-0e2d750ae3ac.jpg
+I, [2024-11-09T17:01:16.434110 #40241]  INFO -- : Processed file: Saved image to media/24ka/83624625-0341-4457-b2f9-43559b666ea0.jpg
+I, [2024-11-09T17:01:16.434257 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, price: 5 300 ₴, description: , category: 24ka, image_path: media/24ka/83624625-0341-4457-b2f9-43559b666ea0.jpg
+I, [2024-11-09T17:01:16.434302 #40241]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, Price: 5 300 ₴, Description: , Category: 24ka, Image Path: media/24ka/83624625-0341-4457-b2f9-43559b666ea0.jpg
+I, [2024-11-09T17:01:16.471929 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258769_w358_h473_disk-freza-universalnij-po.jpg
+I, [2024-11-09T17:01:16.489170 #40241]  INFO -- : Processed file: Saved image to media/24ka/10b44c8d-af23-421a-930a-77e5436bcf9b.jpg
+I, [2024-11-09T17:01:16.489262 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, price: 800 ₴, description: , category: 24ka, image_path: media/24ka/10b44c8d-af23-421a-930a-77e5436bcf9b.jpg
+I, [2024-11-09T17:01:16.489305 #40241]  INFO -- : Processed file: Parsed product: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, Price: 800 ₴, Description: , Category: 24ka, Image Path: media/24ka/10b44c8d-af23-421a-930a-77e5436bcf9b.jpg
+I, [2024-11-09T17:01:16.569711 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268322_w1081_h473_krugla-shlifuvalna-golovka.jpg
+I, [2024-11-09T17:01:16.581949 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188647_w358_h473_shlifmashina-kutova-230mm.jpg
+I, [2024-11-09T17:01:16.603058 #40241]  INFO -- : Processed file: Saved image to media/24ka/5c96a017-1e66-4118-9b55-67bcf5fc2107.jpg
+I, [2024-11-09T17:01:16.603136 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кругла шліфувальна головка 225мм для YATO YT-82353, price: 300 ₴, description: , category: 24ka, image_path: media/24ka/5c96a017-1e66-4118-9b55-67bcf5fc2107.jpg
+I, [2024-11-09T17:01:16.603169 #40241]  INFO -- : Processed file: Parsed product: Кругла шліфувальна головка 225мм для YATO YT-82353, Price: 300 ₴, Description: , Category: 24ka, Image Path: media/24ka/5c96a017-1e66-4118-9b55-67bcf5fc2107.jpg
+I, [2024-11-09T17:01:16.608668 #40241]  INFO -- : Processed file: Saved image to media/24ka/bfc8a516-c5d2-4c10-8848-9d3df0532dbf.jpg
+I, [2024-11-09T17:01:16.608734 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 230мм YATO YT-82110, price: 3 900 ₴, description: , category: 24ka, image_path: media/24ka/bfc8a516-c5d2-4c10-8848-9d3df0532dbf.jpg
+I, [2024-11-09T17:01:16.608766 #40241]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 230мм YATO YT-82110, Price: 3 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/bfc8a516-c5d2-4c10-8848-9d3df0532dbf.jpg
+I, [2024-11-09T17:01:16.644311 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233248341_w358_h473_disk-freza-shlifuvalnij-po.jpg
+I, [2024-11-09T17:01:16.654219 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258681_w269_h230_nasadka-dlya-shlifuvannya.jpg
+I, [2024-11-09T17:01:16.677070 #40241]  INFO -- : Processed file: Saved image to media/24ka/9ec538e4-c623-40e8-8860-95a15a09cff6.jpg
+I, [2024-11-09T17:01:16.677196 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, price: 900 ₴, description: , category: 24ka, image_path: media/24ka/9ec538e4-c623-40e8-8860-95a15a09cff6.jpg
+I, [2024-11-09T17:01:16.677293 #40241]  INFO -- : Processed file: Parsed product: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, Price: 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/9ec538e4-c623-40e8-8860-95a15a09cff6.jpg
+I, [2024-11-09T17:01:16.677380 #40241]  INFO -- : Processed file: Saved image to media/24ka/d88e40ed-3032-4b72-bf4e-c182bf0aab03.jpg
+I, [2024-11-09T17:01:16.677530 #40241]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Насадка для шліфування плитки під кутом YATO YT-82985, price: 1 050 ₴, description: , category: 24ka, image_path: media/24ka/d88e40ed-3032-4b72-bf4e-c182bf0aab03.jpg
+I, [2024-11-09T17:01:16.677583 #40241]  INFO -- : Processed file: Parsed product: Насадка для шліфування плитки під кутом YATO YT-82985, Price: 1 050 ₴, Description: , Category: 24ka, Image Path: media/24ka/d88e40ed-3032-4b72-bf4e-c182bf0aab03.jpg
+I, [2024-11-09T17:01:16.841276 #40241]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189962_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T17:01:45.265150 #40539]  INFO -- : Processed file: example_file
+I, [2024-11-09T17:01:45.267622 #40539]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config config/yaml/web_parser.yaml
+I, [2024-11-09T17:01:45.807772 #40539]  INFO -- : Processed file: Starting parsing process
+I, [2024-11-09T17:01:47.501496 #40539]  INFO -- : Processed file: Extracted 24 product links
+I, [2024-11-09T17:01:49.288637 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258730_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:49.339694 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238780_w1081_h473_rizak-dlya-metalu.jpg
+I, [2024-11-09T17:01:49.397636 #40539]  INFO -- : Processed file: Saved image to media/24ka/37bbe4e8-fdb3-47bc-bfb0-8421fb324db9.jpg
+I, [2024-11-09T17:01:49.397745 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, price: 2 700 ₴, description: , category: 24ka, image_path: media/24ka/37bbe4e8-fdb3-47bc-bfb0-8421fb324db9.jpg
+I, [2024-11-09T17:01:49.397790 #40539]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, Price: 2 700 ₴, Description: , Category: 24ka, Image Path: media/24ka/37bbe4e8-fdb3-47bc-bfb0-8421fb324db9.jpg
+I, [2024-11-09T17:01:49.435249 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233248341_w358_h473_disk-freza-shlifuvalnij-po.jpg
+I, [2024-11-09T17:01:49.444614 #40539]  INFO -- : Processed file: Saved image to media/24ka/0b12ecaa-8fcc-4acd-bc14-65185d901015.jpg
+I, [2024-11-09T17:01:49.445057 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, price: 6 200 ₴, description: , category: 24ka, image_path: media/24ka/0b12ecaa-8fcc-4acd-bc14-65185d901015.jpg
+I, [2024-11-09T17:01:49.445298 #40539]  INFO -- : Processed file: Parsed product: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, Price: 6 200 ₴, Description: , Category: 24ka, Image Path: media/24ka/0b12ecaa-8fcc-4acd-bc14-65185d901015.jpg
+I, [2024-11-09T17:01:49.444531 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258681_w269_h230_nasadka-dlya-shlifuvannya.jpg
+I, [2024-11-09T17:01:49.475986 #40539]  INFO -- : Processed file: Saved image to media/24ka/5bdb97f0-c61c-4474-afe9-c172cd1c6d0a.jpg
+I, [2024-11-09T17:01:49.476167 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, price: 900 ₴, description: , category: 24ka, image_path: media/24ka/5bdb97f0-c61c-4474-afe9-c172cd1c6d0a.jpg
+I, [2024-11-09T17:01:49.476947 #40539]  INFO -- : Processed file: Parsed product: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, Price: 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/5bdb97f0-c61c-4474-afe9-c172cd1c6d0a.jpg
+I, [2024-11-09T17:01:49.477274 #40539]  INFO -- : Processed file: Saved image to media/24ka/b8f8266a-e67c-4e7a-83d0-853dc3607ab5.jpg
+I, [2024-11-09T17:01:49.477523 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Насадка для шліфування плитки під кутом YATO YT-82985, price: 1 050 ₴, description: , category: 24ka, image_path: media/24ka/b8f8266a-e67c-4e7a-83d0-853dc3607ab5.jpg
+I, [2024-11-09T17:01:49.477692 #40539]  INFO -- : Processed file: Parsed product: Насадка для шліфування плитки під кутом YATO YT-82985, Price: 1 050 ₴, Description: , Category: 24ka, Image Path: media/24ka/b8f8266a-e67c-4e7a-83d0-853dc3607ab5.jpg
+I, [2024-11-09T17:01:49.488579 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268322_w1081_h473_krugla-shlifuvalna-golovka.jpg
+I, [2024-11-09T17:01:49.534404 #40539]  INFO -- : Processed file: Saved image to media/24ka/182b7b52-d00c-4c1d-9e71-211eb94d605d.jpg
+I, [2024-11-09T17:01:49.534491 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кругла шліфувальна головка 225мм для YATO YT-82353, price: 300 ₴, description: , category: 24ka, image_path: media/24ka/182b7b52-d00c-4c1d-9e71-211eb94d605d.jpg
+I, [2024-11-09T17:01:49.534530 #40539]  INFO -- : Processed file: Parsed product: Кругла шліфувальна головка 225мм для YATO YT-82353, Price: 300 ₴, Description: , Category: 24ka, Image Path: media/24ka/182b7b52-d00c-4c1d-9e71-211eb94d605d.jpg
+I, [2024-11-09T17:01:49.548576 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188668_w358_h473_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T17:01:49.563928 #40539]  INFO -- : Processed file: Saved image to media/24ka/fa27870f-7517-4475-ac02-b3f9e34280b4.jpg
+I, [2024-11-09T17:01:49.564023 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, price: 1 950 ₴, description: , category: 24ka, image_path: media/24ka/fa27870f-7517-4475-ac02-b3f9e34280b4.jpg
+I, [2024-11-09T17:01:49.564063 #40539]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, Price: 1 950 ₴, Description: , Category: 24ka, Image Path: media/24ka/fa27870f-7517-4475-ac02-b3f9e34280b4.jpg
+I, [2024-11-09T17:01:49.576927 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218964_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:49.589232 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238792_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:49.598544 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188647_w358_h473_shlifmashina-kutova-230mm.jpg
+I, [2024-11-09T17:01:49.600225 #40539]  INFO -- : Processed file: Saved image to media/24ka/d1619dac-66bc-4a0c-a457-e90a40949455.jpg
+I, [2024-11-09T17:01:49.600288 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, price: 2 000 ₴, description: , category: 24ka, image_path: media/24ka/d1619dac-66bc-4a0c-a457-e90a40949455.jpg
+I, [2024-11-09T17:01:49.600319 #40539]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, Price: 2 000 ₴, Description: , Category: 24ka, Image Path: media/24ka/d1619dac-66bc-4a0c-a457-e90a40949455.jpg
+I, [2024-11-09T17:01:49.615769 #40539]  INFO -- : Processed file: Saved image to media/24ka/bc718efe-9303-48f6-8819-bb90fad2e1dd.jpg
+I, [2024-11-09T17:01:49.615864 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, price: 1 500 ₴, description: , category: 24ka, image_path: media/24ka/bc718efe-9303-48f6-8819-bb90fad2e1dd.jpg
+I, [2024-11-09T17:01:49.615981 #40539]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, Price: 1 500 ₴, Description: , Category: 24ka, Image Path: media/24ka/bc718efe-9303-48f6-8819-bb90fad2e1dd.jpg
+I, [2024-11-09T17:01:49.616107 #40539]  INFO -- : Processed file: Saved image to media/24ka/45c34a13-ad5d-41a4-92ca-fff217349f52.jpg
+I, [2024-11-09T17:01:49.616175 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 230мм YATO YT-82110, price: 3 900 ₴, description: , category: 24ka, image_path: media/24ka/45c34a13-ad5d-41a4-92ca-fff217349f52.jpg
+I, [2024-11-09T17:01:49.616214 #40539]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 230мм YATO YT-82110, Price: 3 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/45c34a13-ad5d-41a4-92ca-fff217349f52.jpg
+I, [2024-11-09T17:01:49.637066 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233212659_w358_h473_rizak-pnevmatichnij-yato.jpg
+I, [2024-11-09T17:01:49.657697 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189973_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T17:01:49.668662 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258743_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:49.669327 #40539]  INFO -- : Processed file: Saved image to media/24ka/4a962066-9b5d-435b-9d2e-fbb626c0a25f.jpg
+I, [2024-11-09T17:01:49.669593 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак пневматичний YATO YT-09717, price: 900 ₴, description: , category: 24ka, image_path: media/24ka/4a962066-9b5d-435b-9d2e-fbb626c0a25f.jpg
+I, [2024-11-09T17:01:49.669643 #40539]  INFO -- : Processed file: Parsed product: Різак пневматичний YATO YT-09717, Price: 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/4a962066-9b5d-435b-9d2e-fbb626c0a25f.jpg
+I, [2024-11-09T17:01:49.681695 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217310_w358_h473_shtroboriz-1700-vt.jpg
+I, [2024-11-09T17:01:49.683615 #40539]  INFO -- : Processed file: Saved image to media/24ka/925dc544-5464-47bf-8acc-9bbf5ce7f86d.jpg
+I, [2024-11-09T17:01:49.683788 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09715, price: 850 ₴, description: , category: 24ka, image_path: media/24ka/925dc544-5464-47bf-8acc-9bbf5ce7f86d.jpg
+I, [2024-11-09T17:01:49.683864 #40539]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09715, Price: 850 ₴, Description: , Category: 24ka, Image Path: media/24ka/925dc544-5464-47bf-8acc-9bbf5ce7f86d.jpg
+I, [2024-11-09T17:01:49.694481 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233274928_w269_h230_shtativ-dlya-bolgarki.jpg
+I, [2024-11-09T17:01:49.695262 #40539]  INFO -- : Processed file: Saved image to media/24ka/2a68ec1c-7c30-41d8-a3c0-790c04975e50.jpg
+I, [2024-11-09T17:01:49.695629 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, price: 3 000 ₴, description: , category: 24ka, image_path: media/24ka/2a68ec1c-7c30-41d8-a3c0-790c04975e50.jpg
+I, [2024-11-09T17:01:49.695668 #40539]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, Price: 3 000 ₴, Description: , Category: 24ka, Image Path: media/24ka/2a68ec1c-7c30-41d8-a3c0-790c04975e50.jpg
+I, [2024-11-09T17:01:49.696657 #40539]  INFO -- : Processed file: Saved image to media/24ka/aa6c5af2-1724-4f9c-939f-53d1a0dbb0f6.jpg
+I, [2024-11-09T17:01:49.696711 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штроборіз 1700 Вт 125 мм YATO YT-82015, price: 4 750 ₴, description: , category: 24ka, image_path: media/24ka/aa6c5af2-1724-4f9c-939f-53d1a0dbb0f6.jpg
+I, [2024-11-09T17:01:49.696740 #40539]  INFO -- : Processed file: Parsed product: Штроборіз 1700 Вт 125 мм YATO YT-82015, Price: 4 750 ₴, Description: , Category: 24ka, Image Path: media/24ka/aa6c5af2-1724-4f9c-939f-53d1a0dbb0f6.jpg
+I, [2024-11-09T17:01:49.712639 #40539]  INFO -- : Processed file: Saved image to media/24ka/7fd3186d-b825-4181-9efa-604eb4d6935e.jpg
+I, [2024-11-09T17:01:49.712743 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, price: 1 900 ₴, description: , category: 24ka, image_path: media/24ka/7fd3186d-b825-4181-9efa-604eb4d6935e.jpg
+I, [2024-11-09T17:01:49.712795 #40539]  INFO -- : Processed file: Parsed product: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/7fd3186d-b825-4181-9efa-604eb4d6935e.jpg
+I, [2024-11-09T17:01:49.749305 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188624_w358_h473_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T17:01:49.771184 #40539]  INFO -- : Processed file: Saved image to media/24ka/923a5871-088a-433c-80e6-8eccaa6ca13d.jpg
+I, [2024-11-09T17:01:49.771259 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, price: 1 650 ₴, description: , category: 24ka, image_path: media/24ka/923a5871-088a-433c-80e6-8eccaa6ca13d.jpg
+I, [2024-11-09T17:01:49.771290 #40539]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, Price: 1 650 ₴, Description: , Category: 24ka, Image Path: media/24ka/923a5871-088a-433c-80e6-8eccaa6ca13d.jpg
+I, [2024-11-09T17:01:49.788506 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217251_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:49.813736 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189962_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T17:01:49.815118 #40539]  INFO -- : Processed file: Saved image to media/24ka/174253b3-ef5a-41f1-b2c7-76b91de99c83.jpg
+I, [2024-11-09T17:01:49.816002 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 230 мм YATO YT-82105, price: 3 600 ₴, description: , category: 24ka, image_path: media/24ka/174253b3-ef5a-41f1-b2c7-76b91de99c83.jpg
+I, [2024-11-09T17:01:49.816057 #40539]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 230 мм YATO YT-82105, Price: 3 600 ₴, Description: , Category: 24ka, Image Path: media/24ka/174253b3-ef5a-41f1-b2c7-76b91de99c83.jpg
+I, [2024-11-09T17:01:49.835615 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188637_w269_h230_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T17:01:49.837808 #40539]  INFO -- : Processed file: Saved image to media/24ka/ad4d4ac6-b255-486f-ae9a-5754b6582e7d.jpg
+I, [2024-11-09T17:01:49.837874 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09675, price: 2 400 ₴, description: , category: 24ka, image_path: media/24ka/ad4d4ac6-b255-486f-ae9a-5754b6582e7d.jpg
+I, [2024-11-09T17:01:49.837906 #40539]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09675, Price: 2 400 ₴, Description: , Category: 24ka, Image Path: media/24ka/ad4d4ac6-b255-486f-ae9a-5754b6582e7d.jpg
+I, [2024-11-09T17:01:49.853076 #40539]  INFO -- : Processed file: Saved image to media/24ka/02c6a2bd-3261-40a2-b5be-cb813877aed8.jpg
+I, [2024-11-09T17:01:49.853150 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм YATO YT-82101, price: 1 900 ₴, description: , category: 24ka, image_path: media/24ka/02c6a2bd-3261-40a2-b5be-cb813877aed8.jpg
+I, [2024-11-09T17:01:49.853183 #40539]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм YATO YT-82101, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/02c6a2bd-3261-40a2-b5be-cb813877aed8.jpg
+I, [2024-11-09T17:01:49.876800 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218944_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:49.893248 #40539]  INFO -- : Processed file: Saved image to media/24ka/8ad0cb80-eca2-4871-ba87-aebdddfbb01b.jpg
+I, [2024-11-09T17:01:49.893332 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм YATO YT-82099, price: 2 250 ₴, description: , category: 24ka, image_path: media/24ka/8ad0cb80-eca2-4871-ba87-aebdddfbb01b.jpg
+I, [2024-11-09T17:01:49.893372 #40539]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм YATO YT-82099, Price: 2 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/8ad0cb80-eca2-4871-ba87-aebdddfbb01b.jpg
+I, [2024-11-09T17:01:49.918079 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233191407_w358_h473_akumulyatorna-bolgarka-yato.jpg
+I, [2024-11-09T17:01:49.937110 #40539]  INFO -- : Processed file: Saved image to media/24ka/7508c9ff-df66-47a9-9ba5-94643f2075a6.jpg
+I, [2024-11-09T17:01:49.937198 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Акумуляторна болгарка YATO YT-82826, price: 3 250 ₴, description: , category: 24ka, image_path: media/24ka/7508c9ff-df66-47a9-9ba5-94643f2075a6.jpg
+I, [2024-11-09T17:01:49.937238 #40539]  INFO -- : Processed file: Parsed product: Акумуляторна болгарка YATO YT-82826, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/7508c9ff-df66-47a9-9ba5-94643f2075a6.jpg
+I, [2024-11-09T17:01:50.011780 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233277666_w1081_h473_nizkooborotna-bolgarka-125mm.jpg
+I, [2024-11-09T17:01:50.031245 #40539]  INFO -- : Processed file: Saved image to media/24ka/6b50bb83-9dd8-40ab-904f-47ad8a2ff469.jpg
+I, [2024-11-09T17:01:50.031461 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, price: 3 250 ₴, description: , category: 24ka, image_path: media/24ka/6b50bb83-9dd8-40ab-904f-47ad8a2ff469.jpg
+I, [2024-11-09T17:01:50.031644 #40539]  INFO -- : Processed file: Parsed product: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/6b50bb83-9dd8-40ab-904f-47ad8a2ff469.jpg
+I, [2024-11-09T17:01:50.068408 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233197253_w269_h230_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T17:01:50.085029 #40539]  INFO -- : Processed file: Saved image to media/24ka/55b4c543-efed-48c3-aee6-619572d0cb8f.jpg
+I, [2024-11-09T17:01:50.085107 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, price: 5 300 ₴, description: , category: 24ka, image_path: media/24ka/55b4c543-efed-48c3-aee6-619572d0cb8f.jpg
+I, [2024-11-09T17:01:50.085139 #40539]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, Price: 5 300 ₴, Description: , Category: 24ka, Image Path: media/24ka/55b4c543-efed-48c3-aee6-619572d0cb8f.jpg
+I, [2024-11-09T17:01:50.154570 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258769_w358_h473_disk-freza-universalnij-po.jpg
+I, [2024-11-09T17:01:50.175923 #40539]  INFO -- : Processed file: Saved image to media/24ka/73b5934c-0149-4d19-b14b-192fffc65e80.jpg
+I, [2024-11-09T17:01:50.176007 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, price: 800 ₴, description: , category: 24ka, image_path: media/24ka/73b5934c-0149-4d19-b14b-192fffc65e80.jpg
+I, [2024-11-09T17:01:50.176045 #40539]  INFO -- : Processed file: Parsed product: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, Price: 800 ₴, Description: , Category: 24ka, Image Path: media/24ka/73b5934c-0149-4d19-b14b-192fffc65e80.jpg
+I, [2024-11-09T17:01:50.492322 #40539]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268326_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:01:50.512360 #40539]  INFO -- : Processed file: Saved image to media/24ka/c33acf47-7954-4e3d-afa8-eaf3d6bb2146.jpg
+I, [2024-11-09T17:01:50.512434 #40539]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, price: 4 800 ₴, description: , category: 24ka, image_path: media/24ka/c33acf47-7954-4e3d-afa8-eaf3d6bb2146.jpg
+I, [2024-11-09T17:01:50.512465 #40539]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, Price: 4 800 ₴, Description: , Category: 24ka, Image Path: media/24ka/c33acf47-7954-4e3d-afa8-eaf3d6bb2146.jpg
+I, [2024-11-09T17:01:50.512562 #40539]  INFO -- : Processed file: Finished parsing up to  product pages
+I, [2024-11-09T17:03:45.501347 #41478]  INFO -- : Processed file: example_file
+I, [2024-11-09T17:03:45.503656 #41478]  INFO -- : Processed file: Initialized SimpleWebsiteParser with config config/yaml/web_parser.yaml
+I, [2024-11-09T17:03:46.079453 #41478]  INFO -- : Processed file: Starting parsing process
+I, [2024-11-09T17:03:48.168970 #41478]  INFO -- : Processed file: Extracted 24 product links
+I, [2024-11-09T17:03:49.987052 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258743_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:03:50.031087 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258769_w358_h473_disk-freza-universalnij-po.jpg
+I, [2024-11-09T17:03:50.078987 #41478]  INFO -- : Processed file: Saved image to media/24ka/b0e70793-e77b-4770-9f57-16f18e66671f.jpg
+I, [2024-11-09T17:03:50.079069 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, price: 3 000 ₴, description: , category: 24ka, image_path: media/24ka/b0e70793-e77b-4770-9f57-16f18e66671f.jpg
+I, [2024-11-09T17:03:50.079104 #41478]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (2850-10500 хв⁻¹) YATO YT-821024, Price: 3 000 ₴, Description: , Category: 24ka, Image Path: media/24ka/b0e70793-e77b-4770-9f57-16f18e66671f.jpg
+I, [2024-11-09T17:03:50.114489 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268326_w269_h230_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:03:50.131250 #41478]  INFO -- : Processed file: Saved image to media/24ka/0c119c9e-97f5-458c-9d1f-2141b5386371.jpg
+I, [2024-11-09T17:03:50.131323 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, price: 800 ₴, description: , category: 24ka, image_path: media/24ka/0c119c9e-97f5-458c-9d1f-2141b5386371.jpg
+I, [2024-11-09T17:03:50.131356 #41478]  INFO -- : Processed file: Parsed product: Диск-фреза універсальний по дереву 125 мм YATO YT-59167, Price: 800 ₴, Description: , Category: 24ka, Image Path: media/24ka/0c119c9e-97f5-458c-9d1f-2141b5386371.jpg
+I, [2024-11-09T17:03:50.144171 #41478]  INFO -- : Processed file: Saved image to media/24ka/40cd64e3-b78d-4a64-937f-3bd2fb1660ac.jpg
+I, [2024-11-09T17:03:50.144367 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, price: 4 800 ₴, description: , category: 24ka, image_path: media/24ka/40cd64e3-b78d-4a64-937f-3bd2fb1660ac.jpg
+I, [2024-11-09T17:03:50.144452 #41478]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 100мм 1300Вт (1300-2100 хв⁻¹) YATO YT-82161, Price: 4 800 ₴, Description: , Category: 24ka, Image Path: media/24ka/40cd64e3-b78d-4a64-937f-3bd2fb1660ac.jpg
+I, [2024-11-09T17:03:50.170702 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189973_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T17:03:50.184965 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217310_w358_h473_shtroboriz-1700-vt.jpg
+I, [2024-11-09T17:03:50.197209 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233217251_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:03:50.206386 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188624_w358_h473_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T17:03:50.209183 #41478]  INFO -- : Processed file: Saved image to media/24ka/33653370-9cd5-4c44-a371-23ab86f9e93a.jpg
+I, [2024-11-09T17:03:50.209276 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09715, price: 850 ₴, description: , category: 24ka, image_path: media/24ka/33653370-9cd5-4c44-a371-23ab86f9e93a.jpg
+I, [2024-11-09T17:03:50.209320 #41478]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09715, Price: 850 ₴, Description: , Category: 24ka, Image Path: media/24ka/33653370-9cd5-4c44-a371-23ab86f9e93a.jpg
+I, [2024-11-09T17:03:50.209237 #41478]  INFO -- : Processed file: Saved image to media/24ka/6107a343-75ef-45fd-ab17-4fe7dccaf6d3.jpg
+I, [2024-11-09T17:03:50.209418 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штроборіз 1700 Вт 125 мм YATO YT-82015, price: 4 750 ₴, description: , category: 24ka, image_path: media/24ka/6107a343-75ef-45fd-ab17-4fe7dccaf6d3.jpg
+I, [2024-11-09T17:03:50.209467 #41478]  INFO -- : Processed file: Parsed product: Штроборіз 1700 Вт 125 мм YATO YT-82015, Price: 4 750 ₴, Description: , Category: 24ka, Image Path: media/24ka/6107a343-75ef-45fd-ab17-4fe7dccaf6d3.jpg
+I, [2024-11-09T17:03:50.223638 #41478]  INFO -- : Processed file: Saved image to media/24ka/58342b5c-8d98-4474-9370-c4efe4556273.jpg
+I, [2024-11-09T17:03:50.223714 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 230 мм YATO YT-82105, price: 3 600 ₴, description: , category: 24ka, image_path: media/24ka/58342b5c-8d98-4474-9370-c4efe4556273.jpg
+I, [2024-11-09T17:03:50.223747 #41478]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 230 мм YATO YT-82105, Price: 3 600 ₴, Description: , Category: 24ka, Image Path: media/24ka/58342b5c-8d98-4474-9370-c4efe4556273.jpg
+I, [2024-11-09T17:03:50.224638 #41478]  INFO -- : Processed file: Saved image to media/24ka/88beeb2d-5a18-4b36-847f-fdfde436e93f.jpg
+I, [2024-11-09T17:03:50.224698 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, price: 1 650 ₴, description: , category: 24ka, image_path: media/24ka/88beeb2d-5a18-4b36-847f-fdfde436e93f.jpg
+I, [2024-11-09T17:03:50.224729 #41478]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм 1100Вт YATO YT-82100, Price: 1 650 ₴, Description: , Category: 24ka, Image Path: media/24ka/88beeb2d-5a18-4b36-847f-fdfde436e93f.jpg
+I, [2024-11-09T17:03:50.238081 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258730_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:03:50.249985 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233268322_w1081_h473_krugla-shlifuvalna-golovka.jpg
+I, [2024-11-09T17:03:50.259602 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233197253_w269_h230_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T17:03:50.261552 #41478]  INFO -- : Processed file: Saved image to media/24ka/99529e06-ecee-49b5-9ccb-8273b3f7e071.jpg
+I, [2024-11-09T17:03:50.261618 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, price: 2 700 ₴, description: , category: 24ka, image_path: media/24ka/99529e06-ecee-49b5-9ccb-8273b3f7e071.jpg
+I, [2024-11-09T17:03:50.261688 #41478]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125мм 1700Вт (10500 хв⁻¹) YATO YT-821023, Price: 2 700 ₴, Description: , Category: 24ka, Image Path: media/24ka/99529e06-ecee-49b5-9ccb-8273b3f7e071.jpg
+I, [2024-11-09T17:03:50.278428 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188668_w358_h473_shlifmashina-kutova-akumulyatorna.jpg
+I, [2024-11-09T17:03:50.295598 #41478]  INFO -- : Processed file: Saved image to media/24ka/fc749e85-91a2-4feb-bb5c-1f2fb6992fd6.jpg
+I, [2024-11-09T17:03:50.295769 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, price: 5 300 ₴, description: , category: 24ka, image_path: media/24ka/fc749e85-91a2-4feb-bb5c-1f2fb6992fd6.jpg
+I, [2024-11-09T17:03:50.295888 #41478]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125 мм YATO YT-82828, Price: 5 300 ₴, Description: , Category: 24ka, Image Path: media/24ka/fc749e85-91a2-4feb-bb5c-1f2fb6992fd6.jpg
+I, [2024-11-09T17:03:50.310878 #41478]  INFO -- : Processed file: Saved image to media/24ka/8de69fa8-6372-43c3-bbb2-dae7a888d24e.jpg
+I, [2024-11-09T17:03:50.310983 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кругла шліфувальна головка 225мм для YATO YT-82353, price: 300 ₴, description: , category: 24ka, image_path: media/24ka/8de69fa8-6372-43c3-bbb2-dae7a888d24e.jpg
+I, [2024-11-09T17:03:50.311053 #41478]  INFO -- : Processed file: Parsed product: Кругла шліфувальна головка 225мм для YATO YT-82353, Price: 300 ₴, Description: , Category: 24ka, Image Path: media/24ka/8de69fa8-6372-43c3-bbb2-dae7a888d24e.jpg
+I, [2024-11-09T17:03:50.358359 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233258681_w269_h230_nasadka-dlya-shlifuvannya.jpg
+I, [2024-11-09T17:03:50.359531 #41478]  INFO -- : Processed file: Saved image to media/24ka/180b21da-8486-4776-a0be-b8fa8ab047dc.jpg
+I, [2024-11-09T17:03:50.359590 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, price: 1 950 ₴, description: , category: 24ka, image_path: media/24ka/180b21da-8486-4776-a0be-b8fa8ab047dc.jpg
+I, [2024-11-09T17:03:50.359621 #41478]  INFO -- : Processed file: Parsed product: Шліфмашина кутова акумуляторна 125мм YATO YT-82827, Price: 1 950 ₴, Description: , Category: 24ka, Image Path: media/24ka/180b21da-8486-4776-a0be-b8fa8ab047dc.jpg
+I, [2024-11-09T17:03:50.389194 #41478]  INFO -- : Processed file: Saved image to media/24ka/07d75fcc-97d6-4fd3-a47d-5c189203b477.jpg
+I, [2024-11-09T17:03:50.389306 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Насадка для шліфування плитки під кутом YATO YT-82985, price: 1 050 ₴, description: , category: 24ka, image_path: media/24ka/07d75fcc-97d6-4fd3-a47d-5c189203b477.jpg
+I, [2024-11-09T17:03:50.389357 #41478]  INFO -- : Processed file: Parsed product: Насадка для шліфування плитки під кутом YATO YT-82985, Price: 1 050 ₴, Description: , Category: 24ka, Image Path: media/24ka/07d75fcc-97d6-4fd3-a47d-5c189203b477.jpg
+I, [2024-11-09T17:03:50.413566 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233212659_w358_h473_rizak-pnevmatichnij-yato.jpg
+I, [2024-11-09T17:03:50.429580 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233248341_w358_h473_disk-freza-shlifuvalnij-po.jpg
+I, [2024-11-09T17:03:50.430811 #41478]  INFO -- : Processed file: Saved image to media/24ka/776101c6-a103-474e-8b3b-7518db26efb8.jpg
+I, [2024-11-09T17:03:50.430881 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак пневматичний YATO YT-09717, price: 900 ₴, description: , category: 24ka, image_path: media/24ka/776101c6-a103-474e-8b3b-7518db26efb8.jpg
+I, [2024-11-09T17:03:50.430909 #41478]  INFO -- : Processed file: Parsed product: Різак пневматичний YATO YT-09717, Price: 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/776101c6-a103-474e-8b3b-7518db26efb8.jpg
+I, [2024-11-09T17:03:50.452348 #41478]  INFO -- : Processed file: Saved image to media/24ka/124e594d-021c-4874-807c-03c7c984a3e9.jpg
+I, [2024-11-09T17:03:50.452490 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, price: 900 ₴, description: , category: 24ka, image_path: media/24ka/124e594d-021c-4874-807c-03c7c984a3e9.jpg
+I, [2024-11-09T17:03:50.452533 #41478]  INFO -- : Processed file: Parsed product: Диск-фреза шліфувальний по дереву та алюмінію 125 мм YATO YT-59165, Price: 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/124e594d-021c-4874-807c-03c7c984a3e9.jpg
+I, [2024-11-09T17:03:50.514314 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188637_w269_h230_shlifmashina-kutova-125mm.jpg
+I, [2024-11-09T17:03:50.556046 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233191407_w358_h473_akumulyatorna-bolgarka-yato.jpg
+I, [2024-11-09T17:03:50.570532 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233188647_w358_h473_shlifmashina-kutova-230mm.jpg
+I, [2024-11-09T17:03:50.572075 #41478]  INFO -- : Processed file: Saved image to media/24ka/7c4fb9ea-1a93-4f67-8a61-4f2128b7eecc.jpg
+I, [2024-11-09T17:03:50.572131 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 125мм YATO YT-82101, price: 1 900 ₴, description: , category: 24ka, image_path: media/24ka/7c4fb9ea-1a93-4f67-8a61-4f2128b7eecc.jpg
+I, [2024-11-09T17:03:50.572158 #41478]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 125мм YATO YT-82101, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/7c4fb9ea-1a93-4f67-8a61-4f2128b7eecc.jpg
+I, [2024-11-09T17:03:50.593755 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233277666_w1081_h473_nizkooborotna-bolgarka-125mm.jpg
+I, [2024-11-09T17:03:50.595024 #41478]  INFO -- : Processed file: Saved image to media/24ka/29cc413b-37d7-4c35-a8e5-8147bba83a14.jpg
+I, [2024-11-09T17:03:50.595645 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Акумуляторна болгарка YATO YT-82826, price: 3 250 ₴, description: , category: 24ka, image_path: media/24ka/29cc413b-37d7-4c35-a8e5-8147bba83a14.jpg
+I, [2024-11-09T17:03:50.595937 #41478]  INFO -- : Processed file: Parsed product: Акумуляторна болгарка YATO YT-82826, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/29cc413b-37d7-4c35-a8e5-8147bba83a14.jpg
+I, [2024-11-09T17:03:50.596117 #41478]  INFO -- : Processed file: Saved image to media/24ka/dd659e1d-359d-4d38-b641-dde87f93d880.jpg
+I, [2024-11-09T17:03:50.596709 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Шліфмашина кутова 230мм YATO YT-82110, price: 3 900 ₴, description: , category: 24ka, image_path: media/24ka/dd659e1d-359d-4d38-b641-dde87f93d880.jpg
+I, [2024-11-09T17:03:50.596742 #41478]  INFO -- : Processed file: Parsed product: Шліфмашина кутова 230мм YATO YT-82110, Price: 3 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/dd659e1d-359d-4d38-b641-dde87f93d880.jpg
+I, [2024-11-09T17:03:50.640335 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218964_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:03:50.642900 #41478]  INFO -- : Processed file: Saved image to media/24ka/eda1657d-7dd8-44f9-8bc2-599bac093e4c.jpg
+I, [2024-11-09T17:03:50.642956 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, price: 3 250 ₴, description: , category: 24ka, image_path: media/24ka/eda1657d-7dd8-44f9-8bc2-599bac093e4c.jpg
+I, [2024-11-09T17:03:50.642983 #41478]  INFO -- : Processed file: Parsed product: Низькооборотна болгарка 125мм 900 Вт (1300-4000 об/хв) YATO YT-82096, Price: 3 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/eda1657d-7dd8-44f9-8bc2-599bac093e4c.jpg
+I, [2024-11-09T17:03:50.664624 #41478]  INFO -- : Processed file: Saved image to media/24ka/ddd1ad20-b4c5-4837-aa70-5db7a055464d.jpg
+I, [2024-11-09T17:03:50.664802 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, price: 2 000 ₴, description: , category: 24ka, image_path: media/24ka/ddd1ad20-b4c5-4837-aa70-5db7a055464d.jpg
+I, [2024-11-09T17:03:50.664852 #41478]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм з контролем швидкості YATO YT-82098, Price: 2 000 ₴, Description: , Category: 24ka, Image Path: media/24ka/ddd1ad20-b4c5-4837-aa70-5db7a055464d.jpg
+I, [2024-11-09T17:03:50.720234 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238780_w1081_h473_rizak-dlya-metalu.jpg
+I, [2024-11-09T17:03:50.733730 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233189962_w358_h473_pnevmatichna-bolgarka-yato.jpg
+I, [2024-11-09T17:03:50.740423 #41478]  INFO -- : Processed file: Saved image to media/24ka/21d1d8bf-bd89-448e-9394-81d3a793b139.jpg
+I, [2024-11-09T17:03:50.740487 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, price: 6 200 ₴, description: , category: 24ka, image_path: media/24ka/21d1d8bf-bd89-448e-9394-81d3a793b139.jpg
+I, [2024-11-09T17:03:50.740932 #41478]  INFO -- : Processed file: Parsed product: Різак для металу 2450 Вт 355 мм з функцією м'якого запуску YATO YT-82181, Price: 6 200 ₴, Description: , Category: 24ka, Image Path: media/24ka/21d1d8bf-bd89-448e-9394-81d3a793b139.jpg
+I, [2024-11-09T17:03:50.749786 #41478]  INFO -- : Processed file: Saved image to media/24ka/d86411ea-f1b5-4626-80b2-18ec93d15c9a.jpg
+I, [2024-11-09T17:03:50.750440 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Пневматична болгарка YATO YT-09675, price: 2 400 ₴, description: , category: 24ka, image_path: media/24ka/d86411ea-f1b5-4626-80b2-18ec93d15c9a.jpg
+I, [2024-11-09T17:03:50.750476 #41478]  INFO -- : Processed file: Parsed product: Пневматична болгарка YATO YT-09675, Price: 2 400 ₴, Description: , Category: 24ka, Image Path: media/24ka/d86411ea-f1b5-4626-80b2-18ec93d15c9a.jpg
+I, [2024-11-09T17:03:51.025109 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233274928_w269_h230_shtativ-dlya-bolgarki.jpg
+I, [2024-11-09T17:03:51.055551 #41478]  INFO -- : Processed file: Saved image to media/24ka/4ad95dc2-9224-4dfc-90e9-b4a1bd34c75e.jpg
+I, [2024-11-09T17:03:51.056198 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, price: 1 900 ₴, description: , category: 24ka, image_path: media/24ka/4ad95dc2-9224-4dfc-90e9-b4a1bd34c75e.jpg
+I, [2024-11-09T17:03:51.056240 #41478]  INFO -- : Processed file: Parsed product: Штатив для болгарки 230мм з чавунною основою Yato YT-82976, Price: 1 900 ₴, Description: , Category: 24ka, Image Path: media/24ka/4ad95dc2-9224-4dfc-90e9-b4a1bd34c75e.jpg
+I, [2024-11-09T17:03:51.083894 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233238792_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:03:51.240975 #41478]  INFO -- : Processed file: Saved image to media/24ka/db9c1867-0795-4e76-9e50-2fa0529eddba.jpg
+I, [2024-11-09T17:03:51.241050 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, price: 1 500 ₴, description: , category: 24ka, image_path: media/24ka/db9c1867-0795-4e76-9e50-2fa0529eddba.jpg
+I, [2024-11-09T17:03:51.241079 #41478]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 850 Вт 125 мм YATO YT-82097, Price: 1 500 ₴, Description: , Category: 24ka, Image Path: media/24ka/db9c1867-0795-4e76-9e50-2fa0529eddba.jpg
+I, [2024-11-09T17:03:51.857042 #41478]  INFO -- : Processed file: Extracted image URL: https://images.prom.ua/6233218944_w358_h473_kutova-shlifuvalna-mashina.jpg
+I, [2024-11-09T17:03:51.872743 #41478]  INFO -- : Processed file: Saved image to media/24ka/b89d6acb-2e83-4030-a4f3-99097a248567.jpg
+I, [2024-11-09T17:03:51.872839 #41478]  INFO -- : Processed file: Item initialized: RbParser::Item - name: Кутова шліфувальна машина 125 мм YATO YT-82099, price: 2 250 ₴, description: , category: 24ka, image_path: media/24ka/b89d6acb-2e83-4030-a4f3-99097a248567.jpg
+I, [2024-11-09T17:03:51.872892 #41478]  INFO -- : Processed file: Parsed product: Кутова шліфувальна машина 125 мм YATO YT-82099, Price: 2 250 ₴, Description: , Category: 24ka, Image Path: media/24ka/b89d6acb-2e83-4030-a4f3-99097a248567.jpg
+I, [2024-11-09T17:03:51.873018 #41478]  INFO -- : Processed file: Finished parsing up to  product pages

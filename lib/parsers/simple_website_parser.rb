@@ -46,7 +46,12 @@ module RbParser
     end
 
     def parse_product_page(product_link)
-      if check_url_response(product_link)
+      unless check_url_response(product_link)
+        LoggerManager.log_error("Product page is not accessible: #{product_link}")
+        return
+      end
+
+      begin
         product_page = agent.get(product_link)
         name = extract_product_name(product_page)
         price = extract_product_price(product_page)
@@ -66,8 +71,9 @@ module RbParser
         
         @item_collection << item
         LoggerManager.log_processed_file("Parsed product: #{name}, Price: #{price}, Description: #{description}, Category: #{category}, Image Path: #{image_path}")
-      else
-        LoggerManager.log_error("Product page is not accessible: #{product_link}")
+
+      rescue StandardError => e
+        LoggerManager.log_error("Failed to parse product page at #{product_link}: #{e.message}")
       end
     end
 
@@ -90,7 +96,7 @@ module RbParser
     end
 
     def save_product_image(image_url, category)
-      media_dir = File.join('media_dir', category)
+      media_dir = File.join('media', category)
       FileUtils.mkdir_p(media_dir)
       image_path = File.join(media_dir, "#{SecureRandom.uuid}.jpg")
 

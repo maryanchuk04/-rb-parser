@@ -9,3 +9,8 @@ gem "nokogiri"
 gem "rubocop", require: false
 gem "securerandom"
 gem "sqlite3"
+gem 'sidekiq'
+gem 'mechanize'
+gem 'pony'
+gem 'rubyzip', '~> 2.3'
+
